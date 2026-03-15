@@ -1,4 +1,4 @@
-![VeraBolt Screenshot](../images/1.jpeg)
+
 ---
 
 # ⚡ VeraBolt: The Ultra-Secure AI Vision & Pro License Ecosystem
@@ -174,10 +174,10 @@ The final integration of **Game Theory Optimal (GTO)** logic.
 **Core Pro Features**
 <table>
   <tr>
-    <td align="center">
-      <b>User Dashboard</b><br>
-      <img src="https://github.com/user-attachments/assets/c8231885-ee2e-4fe5-85cd-6ff3a306461d" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
-    </td>
+   <td align="center">
+  <b>Why Go Pro</b><br>
+  <img src="../images/2.jpeg" width="200" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
+</td>
     <td align="center">
       <b>Pro Workspace</b><br>
       <img src="https://github.com/user-attachments/assets/2ccfa07a-4bce-43b5-ba65-46286686a29b" width="220" style="border-radius: 20px; border: 3px solid #f0f0f0; box-shadow: 0 10px 20px rgba(0,0,0,0.1);">
