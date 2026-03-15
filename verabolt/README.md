@@ -1,4 +1,4 @@
-
+<image-card alt="Screenshot" src="images/1.jpeg" ></image-card>
 ---
 
 # ⚡ VeraBolt: The Ultra-Secure AI Vision & Pro License Ecosystem
