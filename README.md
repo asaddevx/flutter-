@@ -24,7 +24,7 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 
 **VeraBolt** shatters this barrier by bringing **Enterprise AI** directly to the edge. Every card detection, every GTO strategy calculation, and every license check is performed on-device. By combining an **Isar NoSQL database** with a custom-trained **YOLOv8 Vision Engine**, VeraBolt ensures zero-latency performance and 100% data privacy. Locked by **AES-256 Hardware Fingerprinting**, the system remains a secure, private vault that functions even in "Airplane Mode."
 
-### ⚡ [VeraBolt](https://asad-portfolio-pi.vercel.app/) | Pro AI & Licensing SaaS
+### ⚡ [VeraBolt]([https://asad-portfolio-pi.vercel.app/](https://github.com/ATdeveloper911/flutter-/verabolt)) | Pro AI & Licensing SaaS
 
 * **Disruption**: Replacing slow cloud-based AI with an **Offline-First Vision Engine** (TFLite).
 * **Intelligence**: 100-epoch custom AI training with **Perspective Warping** for 45° angle accuracy.
