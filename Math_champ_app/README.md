@@ -124,8 +124,9 @@ The current version does **not** include:
 
 ## 📫 Connect with the Creator
 
-* **The Lab**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
-* **Status**: `CHAMP_MODE_ACTIVE` 🟢
+* **Portfolio**: [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app/)
+* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
+* **Status**: `FLUTTER_SYSTEMS_OPERATIONAL` 🟢
 
 ---
 
