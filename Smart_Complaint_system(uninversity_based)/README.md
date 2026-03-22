@@ -331,7 +331,15 @@ You can watch a demo of the system in action via the link below:
 
 
 ---
+---
 
+## 📫 Connect with the Architect
+
+* **Portfolio**: [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app/)
+* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
+* **Status**: `FLUTTER_SYSTEMS_OPERATIONAL` 🟢
+
+---
 
 
 
