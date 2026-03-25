@@ -104,7 +104,7 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 
 
 
-</np align="center">
+<p align="center/n">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
 </p>
 
