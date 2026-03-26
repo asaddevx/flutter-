@@ -24,7 +24,7 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 
 **VeraBolt** shatters this barrier by bringing **Enterprise AI** directly to the edge. Every card detection, every GTO strategy calculation, and every license check is performed on-device. By combining an **Isar NoSQL database** with a custom-trained **YOLOv8 Vision Engine**, VeraBolt ensures zero-latency performance and 100% data privacy. Locked by **AES-256 Hardware Fingerprinting**, the system remains a secure, private vault that functions even in "Airplane Mode."
 
-### ⚡ [VeraBolt](https://github.com/ATdeveloper911/flutter-/tree/main/verabolt/) | Pro AI & Licensing SaaS
+### ⚡ [VeraBolt](https://github.com/asaddevx/flutter-/tree/main/verabolt/) | Pro AI & Licensing SaaS
 
 * **Disruption**: Replacing slow cloud-based AI with an **Offline-First Vision Engine** (TFLite).
 * **Intelligence**: 100-epoch custom AI training with **Perspective Warping** for 45° angle accuracy.
@@ -43,31 +43,31 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 ---
 
 
-### 📋 [Smart Complaint System](https://github.com/ATdeveloper911/flutter-/tree/main/Smart_Complaint_system(uninversity_based)) | Enterprise Governance
+### 📋 [Smart Complaint System](https://github.com/asaddevx/flutter-/tree/main/Smart_Complaint_system(uninversity_based)) | Enterprise Governance
 
 * **The Problem**: University complaints often disappear into email threads with zero accountability or follow-up.
 * **The Solution**: A role-based reporting engine with **Automated 24h Escalation** to the HOD and RLS-protected timelines for 100% transparency.
 * **Key Tech**: Flutter, Supabase (RLS), Real-time Triggers.
 
-### 🎓 [BS CGPA Calculator](https://github.com/ATdeveloper911/flutter-/tree/main/BS_cgpa_calculator_app/) | Academic Forecasting
+### 🎓 [BS CGPA Calculator](https://github.com/asaddevx/flutter-/tree/main/BS_cgpa_calculator_app/) | Academic Forecasting
 
 * **The Problem**: Students struggle to forecast academic standing due to complex, localized grading policies.
 * **The Solution**: A policy-compliant engine tailored to **COMSATS University** grading standards, allowing for precise GPA/CGPA forecasting and goal setting.
 * **Key Tech**: Dart Logic, Local Persistence.
 
-### 🏆 [Math Champ](https://github.com/ATdeveloper911/flutter-/tree/main/Math_champ_app/) | Gamified Logic
+### 🏆 [Math Champ](https://github.com/asaddevx/flutter-/tree/main/Math_champ_app/) | Gamified Logic
 
 * **The Problem**: Educational tools often lack the high-fidelity feedback needed to engage young learners in logic building.
 * **The Solution**: A gamified math engine featuring **Interactive Audio-Visual Feedback** and progressive difficulty scaling to foster logical thinking.
 * **Key Tech**: Flutter Animation Controller, Audio Players.
 
-### 📝 [Task Manager & Tracker](https://github.com/ATdeveloper911/flutter-/tree/main/Task_Manager_app/) | Persistent Accountability
+### 📝 [Task Manager & Tracker](https://github.com/asaddevx/flutter-/tree/main/Task_Manager_app/) | Persistent Accountability
 
 * **The Problem**: Generic task apps lack the "Handshake" between cloud persistence and local state for reliable tracking.
 * **The Solution**: A cloud-synced tracker utilizing **Supabase** for real-time task integrity and state management.
 * **Key Tech**: Flutter, Supabase Auth & Database.
 
-### 📰 [News App](https://github.com/ATdeveloper911/flutter-/tree/main/News_App/) | Real-time Content Delivery
+### 📰 [News App](https://github.com/asaddevx/flutter-/tree/main/News_App/) | Real-time Content Delivery
 
 * **The Problem**: Information overload makes it difficult to consume clean, categorized, and real-time news data on the move.
 * **The Solution**: A streamlined content delivery interface optimized for **Low-Latency API Consumption** and clean typography.
