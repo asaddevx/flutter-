@@ -85,14 +85,23 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 ## 📊 Repository Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=asaddevx&repo=flutter-&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=22" alt="Flutter Repository Stats" />
-  
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=flutter-&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=22" alt="Top Languages" />
+  <!-- 1. Specific Repo Card (Most Important & Reliable) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=flutter-&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="flutter- Repo Stats" />
+
+
+  <!-- 2. Top Languages in this Repository -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=flutter-&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages in flutter-" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asaddevx&repo=flutter-&theme=tokyonight&hide_border=true&background=0f2027&border_radius=22" alt="Streak Stats" />
-</p
+  <!-- 3. Beautiful Tech Badges (Highly Recommended for Flutter repo) -->
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge&logo=r" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Isar-FF6F00?style=for-the-badge" alt="Isar" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ---
 
