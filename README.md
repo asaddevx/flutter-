@@ -79,6 +79,14 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 * **State Management Architecture**: Clean separation of concerns using professional patterns (Provider/Bloc) for scalable codebases.
 * **Institutional Security**: Leveraging **Supabase Row Level Security (RLS)** to protect sensitive user and organizational data.
 * **Performance Optimization**: Achieving 60fps through efficient widget tree rebuilding and asynchronous data handling.
+---
+---
+
+## 📊 Repository Analytics
+
+![Flutter Repo Stats](https://github-readme-stats-fast.vercel.app/api?username=asaddevx&repo=flutter-&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=flutter-&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f)
 
 ---
 
