@@ -87,7 +87,7 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=asaddevx&repo=flutter-&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=22" alt="Flutter Repository Stats" />
   
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=flutter-&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a192f&title_color=a5b4fc&text_color=e0e7ff&icon_color=14b8a6&langs_count=10&border_radius=22" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=flutter-&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=22" alt="Top Languages" />
 </p>
 
 ---
