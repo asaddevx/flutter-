@@ -352,6 +352,7 @@ The final integration of **Game Theory Optimal (GTO)** logic.
 - **External Camera Support** — USB/OTG "USB Eye" compatibility for professional setups
 - **Privacy-First Design** — All sensitive data (camera frames, hand history, AI processing) stays on-device
 
+Built as a **production-grade, resilient, and intelligent Flutter application** focused on security, AI, and offline resilience.
 ---
 ## 📊 Project Analytics
 
