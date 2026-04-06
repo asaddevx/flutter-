@@ -349,6 +349,8 @@ The final integration of **Game Theory Optimal (GTO)** logic.
 - **Hardware Fingerprinting Security** — AES-256 encrypted licenses locked to specific device IDs
 - **Ultra-Secure Professional Workstation** — License management + Admin dashboard with full control
 - **Offline-First Architecture** — Isar local database + Riverpod state management for zero latency
+- **External Camera Support** — USB/OTG "USB Eye" compatibility for professional setups
+- **Privacy-First Design** — All sensitive data (camera frames, hand history, AI processing) stays on-device
 
 ---
 ## 📊 Project Analytics
