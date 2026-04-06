@@ -347,6 +347,8 @@ The final integration of **Game Theory Optimal (GTO)** logic.
 - **Advanced Computer Vision AI** — Custom YOLOv8 model trained on Kaggle for 100 epochs with real-time card detection
 - **On-Device OCR + Perspective Warping** — Google ML Kit + advanced matrix transformations for accurate pot/stack reading
 - **Hardware Fingerprinting Security** — AES-256 encrypted licenses locked to specific device IDs
+- **Ultra-Secure Professional Workstation** — License management + Admin dashboard with full control
+- **Offline-First Architecture** — Isar local database + Riverpod state management for zero latency
 
 ---
 ## 📊 Project Analytics
