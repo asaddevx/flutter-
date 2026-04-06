@@ -345,7 +345,8 @@ The final integration of **Game Theory Optimal (GTO)** logic.
 
 - **100% Offline AI Poker Strategy Engine** — Game Theory Optimal (GTO) advice running completely on-device
 - **Advanced Computer Vision AI** — Custom YOLOv8 model trained on Kaggle for 100 epochs with real-time card detection
-
+- **On-Device OCR + Perspective Warping** — Google ML Kit + advanced matrix transformations for accurate pot/stack reading
+- **Hardware Fingerprinting Security** — AES-256 encrypted licenses locked to specific device IDs
 
 ---
 ## 📊 Project Analytics
