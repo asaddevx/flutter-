@@ -342,6 +342,11 @@ The final integration of **Game Theory Optimal (GTO)** logic.
 ---
 ## 📊 Project Analytics
 
+<p align="center">
+  <!-- VeraBolt Project Stats (using flutter- repo) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=flutter-&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="VeraBolt Project Stats" />
+</p>
+
 ---
 
 
