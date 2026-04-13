@@ -145,6 +145,7 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 - **Educational Tool** — Helps students track academic performance and plan future semesters effectively
 - **Solid Foundation Project** — Demonstrates clean Flutter architecture, state management, and mathematical accuracy
 
+A practical and useful academic tool that showcases strong Flutter fundamentals and user-centric design.
 ----
 ## 📊 Project Analytics
 <p align="center">
