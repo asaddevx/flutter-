@@ -147,7 +147,11 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  
+  <img src="https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Provider-FF4081?style=for-the-badge" alt="Provider" />
+  <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge" alt="Material Design" />
+</p>
+
 
 ----
 ## 📫 Connect with the Architect
