@@ -122,6 +122,10 @@ The current version does **not** include:
 
 ---
 ## 📊 Project Analytics
+<p align="center">
+  <!-- Math Champ Project Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=flutter-&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Math Champ Project Stats" />
+</p>
 
 ---
 ## 📫 Connect with the Architect
