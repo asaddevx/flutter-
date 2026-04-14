@@ -125,7 +125,7 @@ The current version does **not** include:
 
 - **Gamified Math Learning App** — An engaging educational platform designed to make mathematics fun and interactive for students
 - **Interactive Problem Solving** — Multiple difficulty levels with real-time feedback and scoring system
-
+- **Audio-Visual Learning Experience** — Rich animations, sound effects, and visual rewards to boost engagement
 ---
 ## 📊 Project Analytics
 <p align="center">
