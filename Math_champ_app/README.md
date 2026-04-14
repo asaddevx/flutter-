@@ -127,6 +127,7 @@ The current version does **not** include:
 - **Interactive Problem Solving** — Multiple difficulty levels with real-time feedback and scoring system
 - **Audio-Visual Learning Experience** — Rich animations, sound effects, and visual rewards to boost engagement
 - **Progress Tracking** — Detailed performance analytics and improvement insights for users
+- **Clean Flutter Architecture** — Built with Riverpod state management and modern Flutter best practices
 
 
 ---
