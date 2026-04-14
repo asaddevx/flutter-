@@ -129,6 +129,7 @@ The current version does **not** include:
 - **Progress Tracking** — Detailed performance analytics and improvement insights for users
 - **Clean Flutter Architecture** — Built with Riverpod state management and modern Flutter best practices
 - **Student-Centric Design** — Intuitive, colorful, and motivating UI tailored for young learners
+- **Educational Impact** — Helps students improve math skills through gamification and immediate feedback
 
 
 ---
