@@ -151,7 +151,7 @@ A delightful and effective educational app that transforms traditional math prac
   <img src="https://img.shields.io/badge/Gamification-00BFFF?style=for-the-badge" alt="Gamification" />
   <img src="https://img.shields.io/badge/Material_Design-757575?style=for-the-badge" alt="Material Design" />
 </p>
----
+
 ## 📫 Connect with the Architect
 
 <div align="center">
