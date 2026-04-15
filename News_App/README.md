@@ -109,6 +109,8 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ## Acknowledgements
 - Built with ❤️ by **Asadullah (FA22-BSE-037)**
 - Powered by Flutter, News API, and Lottie animations
+---
+## 📊 Project Analytics
 
 ---
 ## 📫 Connect with the Architect
