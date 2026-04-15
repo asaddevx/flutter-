@@ -114,6 +114,11 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 ## ✨ News App Key Highlights
 
+- **Real-Time News Reader** — Modern Flutter application that fetches and displays latest news from multiple sources
+- **Category-Based Browsing** — Easy navigation through Business, Technology, Sports, Health, Entertainment, and more
+- **Search Functionality** — Instant article search with smart filtering
+- **Rich Article Preview** — Beautiful card-based UI with images, titles, descriptions, and source information
+
 ---
 ## 📊 Project Analytics
 <p align="center">
