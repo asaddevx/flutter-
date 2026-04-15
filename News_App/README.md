@@ -171,5 +171,5 @@ A clean, fast, and user-friendly news application that showcases solid Flutter d
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
 </p>
----
+
 
