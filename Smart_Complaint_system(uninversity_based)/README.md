@@ -340,6 +340,7 @@ You can watch a demo of the system in action via the link below:
 - **Multi-Level Approval Workflow** — Department → Dean → Vice Chancellor level tracking
 - **Clean & Professional UI** — Built with Flutter and Riverpod for smooth performance and maintainability
 - **Supabase Backend Integration** — Fast, secure, and scalable backend with PostgreSQL
+- **Production-Ready Governance Tool** — Designed for real university use with focus on transparency and accountability
 
 ---
 ## 📊 Project Analytics
