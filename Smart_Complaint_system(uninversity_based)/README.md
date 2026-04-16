@@ -342,6 +342,7 @@ You can watch a demo of the system in action via the link below:
 - **Supabase Backend Integration** — Fast, secure, and scalable backend with PostgreSQL
 - **Production-Ready Governance Tool** — Designed for real university use with focus on transparency and accountability
 
+An impactful educational governance project that demonstrates strong Flutter architecture, database security, and real-time system design.
 ---
 ## 📊 Project Analytics
 
