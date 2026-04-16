@@ -331,6 +331,8 @@ You can watch a demo of the system in action via the link below:
 
 
 ---
+## 📊 Project Analytics
+
 ---
 ## 📫 Connect with the Architect
 
