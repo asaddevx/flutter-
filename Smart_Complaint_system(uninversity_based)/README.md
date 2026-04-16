@@ -333,6 +333,11 @@ You can watch a demo of the system in action via the link below:
 ---
 ## 📊 Project Analytics
 
+<p align="center">
+  <!-- Smart Complaint System Project Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=flutter-&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Smart Complaint System Project Stats" />
+</p>
+
 ---
 ## 📫 Connect with the Architect
 
