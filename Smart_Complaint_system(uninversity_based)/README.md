@@ -8,6 +8,20 @@ Develop a **Flutter-based complaint management system** for the **Computer Scien
 
 ---
 
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/10dmUWM8dqSloW1vUBRlrKuNzs0nW95Rl/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+  </a>
+</p>
+
+> **🎬 Smart Complaint System in Action**  
+> Click the button above to watch the full demonstration video.
+
+> 📁 *Hosted on Google Drive — Make sure you're signed in to your Google account for access.*
+---
+
 ## 👥 User Roles & Responsibilities
 
 ### 🛠️ Admin
