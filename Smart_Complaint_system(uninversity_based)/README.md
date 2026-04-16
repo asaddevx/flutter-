@@ -338,6 +338,8 @@ You can watch a demo of the system in action via the link below:
 - **Row-Level Security (RLS)** — Advanced data protection ensuring students can only view their own complaints
 - **Real-Time Status Tracking** — Live updates on complaint progress with push notifications
 - **Multi-Level Approval Workflow** — Department → Dean → Vice Chancellor level tracking
+- **Clean & Professional UI** — Built with Flutter and Riverpod for smooth performance and maintainability
+- **Supabase Backend Integration** — Fast, secure, and scalable backend with PostgreSQL
 
 ---
 ## 📊 Project Analytics
