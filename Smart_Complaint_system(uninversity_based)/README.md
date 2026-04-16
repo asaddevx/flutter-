@@ -337,6 +337,10 @@ You can watch a demo of the system in action via the link below:
   <!-- Smart Complaint System Project Stats -->
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=flutter-&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Smart Complaint System Project Stats" />
 </p>
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=flutter-&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 ## 📫 Connect with the Architect
