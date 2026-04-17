@@ -123,6 +123,7 @@ A feature-rich Flutter application designed to help users manage their tasks eff
 
 
 ---
+## 📊 Project Analytics
 
 
 ---
