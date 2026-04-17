@@ -129,6 +129,8 @@ A feature-rich Flutter application designed to help users manage their tasks eff
 - **Powerful Local Storage** — Persistent data using Hive for fast and reliable offline access
 - **Advanced State Management** — Built with Riverpod for clean, scalable, and testable code
 - **Smart Task Features** — Add, edit, delete, prioritize, and mark tasks as complete with due dates
+- **Local Notifications** — Reminders and deadline alerts to keep users on track
+- **Intuitive & Minimalist UI** — Beautiful, easy-to-use interface following Material Design principles
 
 
 ---
