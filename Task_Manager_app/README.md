@@ -134,6 +134,7 @@ A feature-rich Flutter application designed to help users manage their tasks eff
 - **Offline-First Design** — Fully functional without internet connection
 - **Solid Foundation Project** — Demonstrates strong understanding of local databases, state management, and user experience in Flutter
 
+A practical and well-structured task management app that showcases clean Flutter architecture and attention to user productivity.
 ---
 ## 📊 Project Analytics
 
