@@ -121,6 +121,9 @@ A feature-rich Flutter application designed to help users manage their tasks eff
 |----------|------------------|-------------------|------------------|
 | <img src="https://github.com/user-attachments/assets/59b9b7dd-eaa8-41d7-9b11-d9ba345054be" width="200"/> | <img src="https://github.com/user-attachments/assets/c260f349-98ae-47fc-a4fb-99d8a9b85631" width="200"/> | <img src="https://github.com/user-attachments/assets/2b82c70c-42b6-467f-b395-caa54851041f" width="200"/> | <img src="https://github.com/user-attachments/assets/e4f7d919-23cb-4661-8ca1-c19339ef60c0" width="200"/> |
 
+---
+
+## ✨ Task Manager App Key Highlights
 
 ---
 ## 📊 Project Analytics
