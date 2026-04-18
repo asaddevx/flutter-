@@ -188,6 +188,8 @@ A focused dashboard for students to manage tasks, view progress, and stay on tra
 
 
 ---
+## 📊 Project Analytics
+
 ---
 ## 📫 Connect with the Architect
 
