@@ -205,6 +205,8 @@ A focused dashboard for students to manage tasks, view progress, and stay on tra
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Row_Level_Security-00BFFF?style=for-the-badge" alt="RLS" />
+  <img src="https://img.shields.io/badge/Realtime-FF6F00?style=for-the-badge" alt="Realtime" />
+</p>
 ---
 ## 📫 Connect with the Architect
 
