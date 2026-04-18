@@ -189,6 +189,10 @@ A focused dashboard for students to manage tasks, view progress, and stay on tra
 
 ## ✨ Task Tracker (Supabase) Key Highlights
 
+- **Real-Time Task Management Application** — Advanced Flutter app with live synchronization using Supabase
+- **Supabase Backend Integration** — Full utilization of Supabase Auth, PostgreSQL, and Realtime Database
+- **Row Level Security (RLS)** — Secure data access control at the database level
+
 ---
 ## 📊 Project Analytics
 
