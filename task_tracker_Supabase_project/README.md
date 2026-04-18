@@ -185,7 +185,9 @@ A focused dashboard for students to manage tasks, view progress, and stay on tra
 |----------|------------------|------------------|------------------|---|
 | <img src="https://github.com/user-attachments/assets/36eb3f53-15a1-43ac-a6cf-a6462437d664" width="200"/> | <img src="https://github.com/user-attachments/assets/41ece79f-2f96-427a-bd24-d211704b31db" width="200"/> | <img src="https://github.com/user-attachments/assets/a7e920e5-d949-4950-b660-c1afc0d88ab7" width="200"/> | <img src="https://github.com/user-attachments/assets/e1f9ef82-6099-4080-a144-ce40535281f4" width="200"/> | - |
 
+---
 
+## ✨ Task Tracker (Supabase) Key Highlights
 
 ---
 ## 📊 Project Analytics
