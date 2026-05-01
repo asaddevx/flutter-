@@ -34,6 +34,9 @@ Universities are notorious black holes for student complaints. The reality on ca
 | **Departmental Silos** | **Unified Dashboard** — Role-based views: Students submit, Faculty review, Admin oversee all. |
 | **Email Chaos** | **Structured Submission** — Category-based routing (Facilities, Academics, IT, Hostel, etc.) with required fields. |
 
+### 🧠 What Makes This System Different?
+
+
 ---
 
 ## 🎥 Demo Video
