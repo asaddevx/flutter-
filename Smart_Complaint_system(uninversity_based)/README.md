@@ -12,6 +12,8 @@ Develop a **Flutter-based complaint management system** for the **Computer Scien
 
 Universities are notorious black holes for student complaints. The reality on campus is frustrating for everyone:
 
+- 📝 **Complaints Get Lost** — A student reports a broken AC in the library. The paper form sits in a drawer for weeks. No one knows its status.
+
 ---
 
 ## 🎥 Demo Video
