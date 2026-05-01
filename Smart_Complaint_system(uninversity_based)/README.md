@@ -10,6 +10,8 @@ Develop a **Flutter-based complaint management system** for the **Computer Scien
 
 ## 🎯 The Problem We Saw
 
+Universities are notorious black holes for student complaints. The reality on campus is frustrating for everyone:
+
 ---
 
 ## 🎥 Demo Video
