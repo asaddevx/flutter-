@@ -16,6 +16,7 @@ Universities are notorious black holes for student complaints. The reality on ca
 - ⏰ **No Accountability** — There's no automatic trigger if a complaint isn't addressed. It just... waits. Forever.
 - 🔒 **Zero Transparency** — Students can't see if their complaint was even received, let alone who is working on it.
 - 🏢 **Departmental Silos** — A facilities complaint goes to admin, an academic complaint goes to dean's office. No unified view.
+- 📧 **Email Chaos** — Complaints arrive via email, WhatsApp, paper forms, and word-of-mouth. Nothing is tracked.
 
 ---
 
