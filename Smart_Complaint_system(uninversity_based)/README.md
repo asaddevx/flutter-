@@ -39,6 +39,7 @@ Universities are notorious black holes for student complaints. The reality on ca
 - **Escalation as a Feature, Not a Bug** — The 24-hour auto-escalation isn't punitive; it ensures *every* complaint gets attention. No complaint dies of old age.
 - **RLS-Protected Timelines** — Row-Level Security in Supabase ensures students see only their own complaints. Admins see all. Faculty see department-specific.
 - **Proof-Based Resolution** — Resolved complaints require an uploaded "proof photo" (e.g., repaired AC, cleaned area) before closing.
+- **Institutional Memory** — Every resolved complaint becomes a data point. Which departments respond fastest? Which complaints recur? The analytics dashboard reveals all.
 
 ---
 
