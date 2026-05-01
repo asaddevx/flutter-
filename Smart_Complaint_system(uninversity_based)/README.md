@@ -24,6 +24,8 @@ Universities are notorious black holes for student complaints. The reality on ca
 
 ## 💡 The Solution We Built
 
+**Smart Complaint System** is an automated accountability engine. It removes the black hole and replaces it with a transparent, time-bound workflow.
+
 ---
 
 ## 🎥 Demo Video
