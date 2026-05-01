@@ -31,6 +31,7 @@ Universities are notorious black holes for student complaints. The reality on ca
 | **Complaints Get Lost** | **Centralized Digital Hub** — Every complaint has a permanent, searchable record with real-time status. |
 | **No Accountability** | **24-Hour Auto-Escalation** — If unresolved in 24h, complaint auto-escalates to the next authority level. |
 | **Zero Transparency** | **Student Portal** — Students see status (Pending → Reviewing → Resolved) and assigned officer. |
+| **Departmental Silos** | **Unified Dashboard** — Role-based views: Students submit, Faculty review, Admin oversee all. |
 
 ---
 
