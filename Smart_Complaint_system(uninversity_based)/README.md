@@ -15,6 +15,7 @@ Universities are notorious black holes for student complaints. The reality on ca
 - 📝 **Complaints Get Lost** — A student reports a broken AC in the library. The paper form sits in a drawer for weeks. No one knows its status.
 - ⏰ **No Accountability** — There's no automatic trigger if a complaint isn't addressed. It just... waits. Forever.
 - 🔒 **Zero Transparency** — Students can't see if their complaint was even received, let alone who is working on it.
+- 🏢 **Departmental Silos** — A facilities complaint goes to admin, an academic complaint goes to dean's office. No unified view.
 
 ---
 
