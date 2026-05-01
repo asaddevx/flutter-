@@ -22,6 +22,10 @@ Universities are notorious black holes for student complaints. The reality on ca
 
 ---
 
+## 💡 The Solution We Built
+
+---
+
 ## 🎥 Demo Video
 
 <p align="center">
