@@ -28,6 +28,7 @@ Universities are notorious black holes for student complaints. The reality on ca
 
 | Problem | Our Solution |
 |:--------|:-------------|
+| **Complaints Get Lost** | **Centralized Digital Hub** — Every complaint has a permanent, searchable record with real-time status. |
 
 ---
 
