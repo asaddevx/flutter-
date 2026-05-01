@@ -18,6 +18,8 @@ Universities are notorious black holes for student complaints. The reality on ca
 - 🏢 **Departmental Silos** — A facilities complaint goes to admin, an academic complaint goes to dean's office. No unified view.
 - 📧 **Email Chaos** — Complaints arrive via email, WhatsApp, paper forms, and word-of-mouth. Nothing is tracked.
 
+> *The result?* Frustrated students, overworked admins, and a campus culture where nothing ever gets fixed.
+
 ---
 
 ## 🎥 Demo Video
