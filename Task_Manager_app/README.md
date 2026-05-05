@@ -22,6 +22,9 @@ Task management seems simple, but most to-do apps fail in real life. Users face 
 - 📤 **"Where's My Data?"** — You've spent months logging tasks. If you switch phones or the app crashes, is everything gone forever?
 - ⏰ **Notification Overload** — Either you get zero reminders or a hundred. No way to manage them individually.
 
+> *The result?* You start strong, then abandon the app within a week. The task list becomes a graveyard of good intentions.
+
+---
 ---
 ## Features
 
