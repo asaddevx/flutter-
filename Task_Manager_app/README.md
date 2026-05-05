@@ -32,6 +32,8 @@ Task management seems simple, but most to-do apps fail in real life. Users face 
 | Problem | Our Solution |
 |:--------|:-------------|
 | **"I Forgot to Check the App"** | **Local Notifications** — Persistent reminders that fire even when the app is closed. Swipe to cancel individual alerts. |
+| **Recurring Drudgery** | **Recurring Tasks Engine** — Create tasks that repeat daily, weekly, or monthly. Manage all recurring tasks in one place. |
+| **Category Chaos** | **Custom Categories System** — Create, edit, and delete categories. Filter tasks by category instantly. Color-code everything. |
 
 ---
 ## Features
