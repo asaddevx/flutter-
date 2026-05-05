@@ -1,4 +1,9 @@
-# Task Manager App
+
+# ✅ Task Manager App
+
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+
 
 A feature-rich Flutter application designed to help users manage their tasks efficiently with a clean, customizable interface. The app supports task creation, reminders, categories, dark/light mode, and more.
 
