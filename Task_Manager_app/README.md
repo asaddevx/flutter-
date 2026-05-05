@@ -35,6 +35,8 @@ Task management seems simple, but most to-do apps fail in real life. Users face 
 | **Recurring Drudgery** | **Recurring Tasks Engine** — Create tasks that repeat daily, weekly, or monthly. Manage all recurring tasks in one place. |
 | **Category Chaos** | **Custom Categories System** — Create, edit, and delete categories. Filter tasks by category instantly. Color-code everything. |
 | **One Look Doesn't Fit All** | **Dark/Light Mode + Color Customization** — System theme detection + manual toggle + custom accent colors. Your UI, your rules. |
+| **"Where's My Data?"** | **Hive Local Database + Export Options** — Offline-first, fast, persistent storage. Export tasks as CSV or PDF anytime. |
+| **Notification Overload** | **Notification Control Center** — See all scheduled reminders. Enable/disable individually. Bulk clear. Full control. |
 
 ---
 ## Features
