@@ -16,6 +16,8 @@ A feature-rich Flutter application designed to help users manage their tasks eff
 Task management seems simple, but most to-do apps fail in real life. Users face constant friction:
 
 - 📱 **"I Forgot to Check the App"** — Tasks live inside the app, but reminders don't reach you. You forget to open it, and tasks get ignored.
+- 🔁 **Recurring Drudgery** — Weekly meetings, monthly bills, daily chores. Why do you have to re-enter the same task every time?
+- 🗂️ **Category Chaos** — Work tasks, personal errands, shopping lists, fitness goals — all mixed together in one overwhelming list.
 
 ---
 ## Features
