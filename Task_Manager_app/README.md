@@ -13,6 +13,10 @@ A feature-rich Flutter application designed to help users manage their tasks eff
 
 ## 🎯 The Problem We Saw
 
+Task management seems simple, but most to-do apps fail in real life. Users face constant friction:
+
+- 📱 **"I Forgot to Check the App"** — Tasks live inside the app, but reminders don't reach you. You forget to open it, and tasks get ignored.
+
 ---
 ## Features
 
