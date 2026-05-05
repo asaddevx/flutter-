@@ -38,6 +38,8 @@ Task management seems simple, but most to-do apps fail in real life. Users face 
 | **"Where's My Data?"** | **Hive Local Database + Export Options** — Offline-first, fast, persistent storage. Export tasks as CSV or PDF anytime. |
 | **Notification Overload** | **Notification Control Center** — See all scheduled reminders. Enable/disable individually. Bulk clear. Full control. |
 
+### 🧠 What Makes This Task Manager Different?
+
 ---
 ## Features
 
