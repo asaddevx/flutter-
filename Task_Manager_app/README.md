@@ -9,6 +9,11 @@
 
 A feature-rich Flutter application designed to help users manage their tasks efficiently with a clean, customizable interface. The app supports task creation, reminders, categories, dark/light mode, and more.
 
+---
+
+## 🎯 The Problem We Saw
+
+---
 ## Features
 
 ### Core Functionality
