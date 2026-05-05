@@ -43,6 +43,8 @@ Task management seems simple, but most to-do apps fail in real life. Users face 
 - **Recurring Tasks Done Right** — Not just "repeat every X days." You choose specific days (Mon/Wed/Fri) or monthly dates. Perfect for routines.
 - **Auto-Save Drafts** — Start creating a task, get interrupted, come back later. Your draft is still there. No lost work.
 - **Visual Progress Tracking** — See completion metrics. Know how much you've accomplished, not just what's left.
+- **From Overwhelm to Action** — Smart search + category filtering + upcoming timeline = you see *exactly* what matters *right now*.
+- **Offline-First Architecture** — No internet? No problem. Hive keeps everything local and blazing fast.
 
 ---
 ## Features
