@@ -29,6 +29,10 @@ Task management seems simple, but most to-do apps fail in real life. Users face 
 
 **Task Manager App** is not just another to-do list. It's a **complete productivity ecosystem** designed to remove every friction point above.
 
+| Problem | Our Solution |
+|:--------|:-------------|
+| **"I Forgot to Check the App"** | **Local Notifications** — Persistent reminders that fire even when the app is closed. Swipe to cancel individual alerts. |
+
 ---
 ## Features
 
