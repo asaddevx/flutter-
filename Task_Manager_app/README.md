@@ -40,6 +40,8 @@ Task management seems simple, but most to-do apps fail in real life. Users face 
 
 ### 🧠 What Makes This Task Manager Different?
 
+- **Recurring Tasks Done Right** — Not just "repeat every X days." You choose specific days (Mon/Wed/Fri) or monthly dates. Perfect for routines.
+
 ---
 ## Features
 
