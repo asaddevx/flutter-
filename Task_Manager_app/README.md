@@ -18,6 +18,9 @@ Task management seems simple, but most to-do apps fail in real life. Users face 
 - 📱 **"I Forgot to Check the App"** — Tasks live inside the app, but reminders don't reach you. You forget to open it, and tasks get ignored.
 - 🔁 **Recurring Drudgery** — Weekly meetings, monthly bills, daily chores. Why do you have to re-enter the same task every time?
 - 🗂️ **Category Chaos** — Work tasks, personal errands, shopping lists, fitness goals — all mixed together in one overwhelming list.
+- 🌓 **One Look Doesn't Fit All** — Some users love dark mode. Some hate it. Most apps force one theme on everyone.
+- 📤 **"Where's My Data?"** — You've spent months logging tasks. If you switch phones or the app crashes, is everything gone forever?
+- ⏰ **Notification Overload** — Either you get zero reminders or a hundred. No way to manage them individually.
 
 ---
 ## Features
