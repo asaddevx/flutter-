@@ -1,9 +1,6 @@
+# 📚 Student Task Tracker App
 
-
-✅ **Supabase** as the cloud database
-✅ **Flutter** for frontend (Admin & Student)
-✅ No backend server (using Supabase directly)
-✅ Functional requirements, tools, and dependencies
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 ---
 
