@@ -43,6 +43,7 @@ Classroom task management is broken. Teachers and students suffer daily from the
 - **Row Level Security (RLS)** — Students see only their own tasks. Admins see everything. The database enforces this, not the app.
 - **Real-Time by Default** — Task assignments, completions, and chat messages update live across all devices. No manual refresh.
 - **Dual-Role Architecture** — One codebase, two experiences. Login determines whether you're an Admin or Student.
+- **Built for Teachers, Inspired by Gamification** — Leaderboard and progress tracking turn task completion into a motivating experience.
 
 ---
 
