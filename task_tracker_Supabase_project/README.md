@@ -15,6 +15,8 @@
 Classroom task management is broken. Teachers and students suffer daily from the same old problems:
 
 - 📋 **"Where's the Assignment?"** — Students claim they didn't see the task. Teachers claim they posted it. No single source of truth.
+- 📊 **Invisible Progress** — Teachers have no real-time view of who completed what. By the time they find out, it's too late to intervene.
+- 🐘 **Spreadsheet Chaos** — Teachers manage tasks and scores in Excel files that live on their desktop. Emailing files back and forth is error-prone and outdated.
 
 
 # 📄 **Scope Document – Student Task Tracker App (Real-time with Supabase)**
