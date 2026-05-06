@@ -28,6 +28,9 @@ Classroom task management is broken. Teachers and students suffer daily from the
 
 **Student Task Tracker** is a **real-time classroom operating system** — no backend code required. Supabase handles everything.
 
+| Problem | Our Solution |
+|:--------|:-------------|
+
 ---
 
 # 📄 **Scope Document – Student Task Tracker App (Real-time with Supabase)**
