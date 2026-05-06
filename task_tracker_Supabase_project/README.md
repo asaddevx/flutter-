@@ -21,6 +21,9 @@ Classroom task management is broken. Teachers and students suffer daily from the
 - 💬 **No Communication Channel** — Students have questions. Teachers have answers. But there's no built-in way to connect them.
 - 📈 **No Motivation System** — Students complete tasks in isolation. No leaderboard. No streaks. No recognition for hard work.
 
+> *The result?* Missed assignments, frustrated teachers, disengaged students, and zero visibility into classroom progress.
+
+---
 
 # 📄 **Scope Document – Student Task Tracker App (Real-time with Supabase)**
 
