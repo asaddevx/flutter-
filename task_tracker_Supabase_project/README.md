@@ -39,6 +39,9 @@ Classroom task management is broken. Teachers and students suffer daily from the
 
 ### 🧠 What Makes This Task Tracker Different?
 
+- **Zero Backend Code** — No Express, no Node.js, no server deployment. Supabase is the entire backend (Auth, Database, Realtime, RLS).
+- **Row Level Security (RLS)** — Students see only their own tasks. Admins see everything. The database enforces this, not the app.
+
 ---
 
 # 📄 **Scope Document – Student Task Tracker App (Real-time with Supabase)**
