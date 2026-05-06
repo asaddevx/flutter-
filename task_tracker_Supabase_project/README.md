@@ -37,6 +37,8 @@ Classroom task management is broken. Teachers and students suffer daily from the
 | **No Communication Channel** | **In-App Real-time Chat** — Students message admins directly. Questions get answered instantly. |
 | **No Motivation System** | **Leaderboard + Streaks** — Top performers are visible. Task streaks encourage daily engagement. |
 
+### 🧠 What Makes This Task Tracker Different?
+
 ---
 
 # 📄 **Scope Document – Student Task Tracker App (Real-time with Supabase)**
