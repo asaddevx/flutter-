@@ -6,6 +6,9 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Riverpod](https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge)](https://riverpod.dev/)
 
+
+**Student Task Tracker** is a real-time, dual-role Flutter application powered by Supabase. It enables teachers (admins) to manage students, assign tasks, and monitor performance — while students get a focused dashboard to track and complete their work, all synchronized live.
+
 ---
 
 # 📄 **Scope Document – Student Task Tracker App (Real-time with Supabase)**
