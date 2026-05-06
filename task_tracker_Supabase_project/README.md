@@ -10,6 +10,10 @@
 **Student Task Tracker** is a real-time, dual-role Flutter application powered by Supabase. It enables teachers (admins) to manage students, assign tasks, and monitor performance — while students get a focused dashboard to track and complete their work, all synchronized live.
 
 ---
+## 🎯 The Problem We Saw
+
+Classroom task management is broken. Teachers and students suffer daily from the same old problems:
+
 
 # 📄 **Scope Document – Student Task Tracker App (Real-time with Supabase)**
 
