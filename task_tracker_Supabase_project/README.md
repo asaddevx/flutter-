@@ -34,6 +34,8 @@ Classroom task management is broken. Teachers and students suffer daily from the
 | **Invisible Progress** | **Live Performance Dashboard** — Teachers see real-time completion rates. Students see personal progress graphs with `fl_chart`. |
 | **Spreadsheet Chaos** | **Excel Import/Export** — Admins can upload students in bulk from Excel and export task data as CSV/PDF anytime. |
 | **Login Nightmare** | **Supabase Auth + Admin Creation** — Admin creates student credentials. Students just log in. No separate sign-up. |
+| **No Communication Channel** | **In-App Real-time Chat** — Students message admins directly. Questions get answered instantly. |
+| **No Motivation System** | **Leaderboard + Streaks** — Top performers are visible. Task streaks encourage daily engagement. |
 
 ---
 
