@@ -30,6 +30,8 @@ Classroom task management is broken. Teachers and students suffer daily from the
 
 | Problem | Our Solution |
 |:--------|:-------------|
+| **"Where's the Assignment?"** | **Supabase Realtime** — Tasks appear instantly on student devices the moment the admin assigns them. No refresh needed. |
+| **Invisible Progress** | **Live Performance Dashboard** — Teachers see real-time completion rates. Students see personal progress graphs with `fl_chart`. |
 
 ---
 
