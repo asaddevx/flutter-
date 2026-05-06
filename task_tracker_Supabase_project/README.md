@@ -14,6 +14,8 @@
 
 Classroom task management is broken. Teachers and students suffer daily from the same old problems:
 
+- 📋 **"Where's the Assignment?"** — Students claim they didn't see the task. Teachers claim they posted it. No single source of truth.
+
 
 # 📄 **Scope Document – Student Task Tracker App (Real-time with Supabase)**
 
