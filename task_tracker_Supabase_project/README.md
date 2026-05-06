@@ -19,6 +19,7 @@ Classroom task management is broken. Teachers and students suffer daily from the
 - 🐘 **Spreadsheet Chaos** — Teachers manage tasks and scores in Excel files that live on their desktop. Emailing files back and forth is error-prone and outdated.
 - 🔐 **Login Nightmare** — Every platform requires students to sign up separately. Teachers have no control over who joins.
 - 💬 **No Communication Channel** — Students have questions. Teachers have answers. But there's no built-in way to connect them.
+- 📈 **No Motivation System** — Students complete tasks in isolation. No leaderboard. No streaks. No recognition for hard work.
 
 
 # 📄 **Scope Document – Student Task Tracker App (Real-time with Supabase)**
