@@ -41,6 +41,8 @@ Classroom task management is broken. Teachers and students suffer daily from the
 
 - **Zero Backend Code** — No Express, no Node.js, no server deployment. Supabase is the entire backend (Auth, Database, Realtime, RLS).
 - **Row Level Security (RLS)** — Students see only their own tasks. Admins see everything. The database enforces this, not the app.
+- **Real-Time by Default** — Task assignments, completions, and chat messages update live across all devices. No manual refresh.
+- **Dual-Role Architecture** — One codebase, two experiences. Login determines whether you're an Admin or Student.
 
 ---
 
