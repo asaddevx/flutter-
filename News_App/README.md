@@ -144,18 +144,6 @@ News consumption is broken. Users face the same frustrations every day:
 | <img src="https://github.com/user-attachments/assets/227cac3e-94df-49ad-b1af-297e7e7a8a90" width="200"/> | <img src="https://github.com/user-attachments/assets/2f333507-b961-41f1-ae9c-37800921d24b" width="200"/> | <img src="https://github.com/user-attachments/assets/abb63ae0-a68e-43cb-8ebd-f8d32e012de8" width="200"/> |
 
 
-
-
-## Contributing
-Feel free to submit issues or pull requests to enhance **today_news**. Let’s keep the neon vibe glowing!
-
-## License
-This project is licensed under the MIT License – see the LICENSE file for details.
-
-## Acknowledgements
-- Built with ❤️ by **Asadullah (FA22-BSE-037)**
-- Powered by Flutter, News API, and Lottie animations
-
 ---
 
 ## ✨ News App Key Highlights
