@@ -27,6 +27,9 @@ News consumption is broken. Users face the same frustrations every day:
 > *The result?* You stop reading news. Or worse — you rely on social media feeds full of misinformation.
 
 ---
+## 💡 The Solution We Built
+
+**today_news** is not just a news app — it's a **neon-charged news experience** that solves every pain point above.
 
 ---
 ## Features
