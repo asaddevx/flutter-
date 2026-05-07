@@ -35,6 +35,8 @@ News consumption is broken. Users face the same frustrations every day:
 |:--------|:-------------|
 | **Too Many Apps** | **All-in-One Category Bar** — Top News, Anime, Sports, Finance, Entertainment. Switch with one tap. |
 | **"No Internet, No News"** | **Offline-First Architecture** — News is cached with Hive. Favorites live in SQFLite. Read anywhere. |
+| **"Where Was That Article?"** | **Neon Pink Favorites** — Save articles with one tap. Dedicated favorites screen. Persists forever. |
+| **Boring UI** | **Neon Aesthetic** — Glowing gradients, neon pink accents, Lottie animations, and smooth transitions. |
 
 ---
 ## Features
