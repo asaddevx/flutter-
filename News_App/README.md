@@ -31,6 +31,9 @@ News consumption is broken. Users face the same frustrations every day:
 
 **today_news** is not just a news app — it's a **neon-charged news experience** that solves every pain point above.
 
+| Problem | Our Solution |
+|:--------|:-------------|
+
 ---
 ## Features
 - **Real-Time News:** Fetch and display news articles from the News API across multiple categories.
