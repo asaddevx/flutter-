@@ -11,6 +11,11 @@
 
 **today_news** is a vibrant, neon-charged Flutter app that delivers real-time news with a dazzling user experience. Dive into the latest headlines across categories like Anime, Sports, Finance, and more, with a sleek carousel slider showcasing top stories. Personalize your feed with a custom nickname and favorite topics, save articles for offline reading, and enjoy a glowing UI with smooth animations. Powered by the News API, Hive, and SQFLite, **today_news** combines performance and style to keep you informed in electrifying fashion!
 
+---
+
+## 🎯 The Problem We Saw
+
+---
 ## Features
 - **Real-Time News:** Fetch and display news articles from the News API across multiple categories.
 - **Category Browsing:** Explore news via a horizontal category bar (Top News, Anime, Sports, Finance, Entertainment).
