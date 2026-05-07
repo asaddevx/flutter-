@@ -15,6 +15,8 @@
 
 ## 🎯 The Problem We Saw
 
+News consumption is broken. Users face the same frustrations every day:
+
 ---
 ## Features
 - **Real-Time News:** Fetch and display news articles from the News API across multiple categories.
