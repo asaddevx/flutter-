@@ -42,6 +42,8 @@ News consumption is broken. Users face the same frustrations every day:
 
 ### 🧠 What Makes today_news Different?
 
+- **Neon Is Not Just a Theme — It's an Experience** — The app doesn't just deliver news. It energizes you while you read. Loading screens glow. Cards pulse. Scrolling feels alive.
+
 ---
 ## Features
 - **Real-Time News:** Fetch and display news articles from the News API across multiple categories.
