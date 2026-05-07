@@ -6,6 +6,7 @@
 [![Provider](https://img.shields.io/badge/Provider-FF4081?style=for-the-badge)](https://pub.dev/packages/provider)
 [![HTTP](https://img.shields.io/badge/HTTP-00BFFF?style=for-the-badge)](https://pub.dev/packages/http)
 [![News_API](https://img.shields.io/badge/News_API-FF6F00?style=for-the-badge)](https://newsapi.org/)
+[![Hive](https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge)](https://docs.hivedb.dev/)
 
 
 **today_news** is a vibrant, neon-charged Flutter app that delivers real-time news with a dazzling user experience. Dive into the latest headlines across categories like Anime, Sports, Finance, and more, with a sleek carousel slider showcasing top stories. Personalize your feed with a custom nickname and favorite topics, save articles for offline reading, and enjoy a glowing UI with smooth animations. Powered by the News API, Hive, and SQFLite, **today_news** combines performance and style to keep you informed in electrifying fashion!
