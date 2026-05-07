@@ -40,6 +40,8 @@ News consumption is broken. Users face the same frustrations every day:
 | **Search That Fails** | **Dual Search Mode** — Search by keyword OR country. Instant, relevant results. |
 | **Slow and Clunky** | **Performance Optimized** — CachedNetworkImage, pull-to-refresh, lightweight animations. Silky smooth. |
 
+### 🧠 What Makes today_news Different?
+
 ---
 ## Features
 - **Real-Time News:** Fetch and display news articles from the News API across multiple categories.
