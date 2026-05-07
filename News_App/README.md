@@ -22,7 +22,11 @@ News consumption is broken. Users face the same frustrations every day:
 - ❤️ **"Where Was That Article?"** — You find a great story, but there's no way to save it. By the time you need it, it's buried in the internet abyss.
 - 🎨 **Boring, Hospital-White UI** — Most news apps feel like reading a spreadsheet. No personality. No energy. No joy.
 - 🔍 **Search That Never Finds Anything** — You search for a topic, but the app shows irrelevant results or nothing at all.
-- ⚡ **Slow and Clunky** — Images take forever to load. Scrolling is choppy. You close the app in frustr
+- ⚡ **Slow and Clunky** — Images take forever to load. Scrolling is choppy. You close the app in frustr.
+
+> *The result?* You stop reading news. Or worse — you rely on social media feeds full of misinformation.
+
+---
 
 ---
 ## Features
