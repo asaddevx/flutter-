@@ -45,6 +45,8 @@ News consumption is broken. Users face the same frustrations every day:
 - **Neon Is Not Just a Theme — It's an Experience** — The app doesn't just deliver news. It energizes you while you read. Loading screens glow. Cards pulse. Scrolling feels alive.
 - **Offline Is Not an Afterthought** — Hive caches the latest news. SQFLite stores your favorites. Even in airplane mode, your reading never stops.
 - **Personalization That Matters** — Set your nickname. Choose your favorite carousel topic (Dragon Ball, Anime, etc.). The app adapts to *you*.
+- **Dual Database Architecture** — Hive for fast, key-value news caching. SQFLite for relational favorites and settings. Best of both worlds.
+- **Error Handling With Personality** — No boring "404" text. Lottie error animations with retry options make failures feel less frustrating.
 
 ---
 ## Features
