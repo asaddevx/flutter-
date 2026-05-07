@@ -43,6 +43,8 @@ News consumption is broken. Users face the same frustrations every day:
 ### 🧠 What Makes today_news Different?
 
 - **Neon Is Not Just a Theme — It's an Experience** — The app doesn't just deliver news. It energizes you while you read. Loading screens glow. Cards pulse. Scrolling feels alive.
+- **Offline Is Not an Afterthought** — Hive caches the latest news. SQFLite stores your favorites. Even in airplane mode, your reading never stops.
+- **Personalization That Matters** — Set your nickname. Choose your favorite carousel topic (Dragon Ball, Anime, etc.). The app adapts to *you*.
 
 ---
 ## Features
