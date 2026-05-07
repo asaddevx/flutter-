@@ -17,6 +17,9 @@
 
 News consumption is broken. Users face the same frustrations every day:
 
+- 📱 **Too Many Apps, Too Much Noise** — You need one app for sports, another for finance, another for anime. Your phone becomes a cluttered mess.
+- 🌐 **"No Internet, No News"** — You're on a train, in a tunnel, or traveling abroad. Your news app shows nothing but an error screen.
+
 ---
 ## Features
 - **Real-Time News:** Fetch and display news articles from the News API across multiple categories.
