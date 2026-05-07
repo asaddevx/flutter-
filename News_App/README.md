@@ -37,6 +37,8 @@ News consumption is broken. Users face the same frustrations every day:
 | **"No Internet, No News"** | **Offline-First Architecture** — News is cached with Hive. Favorites live in SQFLite. Read anywhere. |
 | **"Where Was That Article?"** | **Neon Pink Favorites** — Save articles with one tap. Dedicated favorites screen. Persists forever. |
 | **Boring UI** | **Neon Aesthetic** — Glowing gradients, neon pink accents, Lottie animations, and smooth transitions. |
+| **Search That Fails** | **Dual Search Mode** — Search by keyword OR country. Instant, relevant results. |
+| **Slow and Clunky** | **Performance Optimized** — CachedNetworkImage, pull-to-refresh, lightweight animations. Silky smooth. |
 
 ---
 ## Features
