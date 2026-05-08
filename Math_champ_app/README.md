@@ -33,6 +33,8 @@ For many kids in grades 4–7, traditional math practice feels like a chore. The
 | **"Math is Boring"** | **Vibrant, Kid-Friendly UI** — Comic Sans MS font, colorful gradients (purple/pink/yellow), and card-based design that feels like a game, not a textbook. |
 | **Fear of Getting It Wrong** | **Instant Audio-Visual Feedback** — Pop sounds for correct answers. Gentle "try again" cues for mistakes. No waiting. No shame. |
 | **One-Size-Fits-All Failure** | **Three Power-Up Stages** — 📖 **Learn** (animated lessons) → 🎯 **Practice** (drills with instant feedback) → ⚔️ **Quiz** (customizable challenges). Every child finds their path. |
+| **No Feeling of Victory** | **Celebratory Rewards** — Confetti explosions, scaling animations, rotating effects, and encouraging mascot messages like *"Let's divide easy, champ!"* |
+| **The "I Can't Do Math" Wall** | **Configurable Difficulty** — Easy (1-10), Medium (20-50), or Hard (30-100). Kids start where they're comfortable and level up when ready. |
 
 
 ---
