@@ -7,6 +7,8 @@
 [![Gamification](https://img.shields.io/badge/Gamification-00BFFF?style=for-the-badge)](https://en.wikipedia.org/wiki/Gamification)
 [![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge)](https://material.io/)
 
+**Math Champ** is a fun, educational mobile app designed to help kids in grades 4–7 (ages 9–13) build confidence in basic math skills. The app offers a vibrant, interactive experience focused on **Addition**, **Subtraction**, **Multiplication**, and **Division** — all wrapped in a gamified learning environment.
+
 
 ## 📘 Scope of the Math Champ App
 
