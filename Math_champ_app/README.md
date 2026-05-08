@@ -40,6 +40,8 @@ For many kids in grades 4–7, traditional math practice feels like a chore. The
 
 - **Learn → Practice → Quiz — A Complete Journey** — Most apps throw you into quizzes immediately. Math Champ builds confidence first with animated lessons, then lets you practice safely before the final challenge.
 - **Audio That Celebrates** — Pop sounds, click effects, correct/incorrect cues. Every interaction has a voice. The app talks back in a friendly, encouraging tone.
+- **Confetti Is Not Optional** — When a child answers correctly, confetti explodes across the screen. It's silly. It's joyful. And it makes learning *memorable*.
+- **Mascot That Cheers You On** — *"Let's divide easy, champ!"* — The app has personality. It feels like a coach, not a robot.
 
 ---
 ## 📘 Scope of the Math Champ App
