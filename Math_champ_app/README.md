@@ -17,6 +17,7 @@ For many kids in grades 4–7, traditional math practice feels like a chore. The
 
 - 📝 **"Math is Boring"** — Doing repetitive drills on paper is dull. No colors. No sounds. No excitement. Just blank worksheets and a ticking clock.
 - 😰 **Fear of Getting It Wrong** — When a kid solves a problem on paper, there's no instant feedback. They have to wait for a teacher or parent to check. By then, the frustration has already set in.
+- 🧠 **One-Size-Fits-All Failure** — Every child learns differently. Some need visual examples. Some need hands-on practice. Most apps force the same path on everyone.
 
 ---
 ## 📘 Scope of the Math Champ App
