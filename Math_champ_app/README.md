@@ -2,6 +2,8 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Riverpod](https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge)](https://riverpod.dev/)
+[![Animations](https://img.shields.io/badge/Animations-FF6F00?style=for-the-badge)](https://pub.dev/packages/flutter_animate)
 
 
 ## 📘 Scope of the Math Champ App
