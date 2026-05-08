@@ -28,6 +28,10 @@ For many kids in grades 4–7, traditional math practice feels like a chore. The
 
 **Math Champ** is the "Super-Suit" for learning arithmetic. I engineered this app to turn **Addition, Subtraction, Multiplication, and Division** into an interactive quest.
 
+| Problem | Our Solution |
+|:--------|:-------------|
+| **"Math is Boring"** | **Vibrant, Kid-Friendly UI** — Comic Sans MS font, colorful gradients (purple/pink/yellow), and card-based design that feels like a game, not a textbook. |
+
 
 ---
 ## 📘 Scope of the Math Champ App
