@@ -38,6 +38,7 @@ For many kids in grades 4–7, traditional math practice feels like a chore. The
 
 ### 🧠 What Makes Math Champ Different?
 
+- **Learn → Practice → Quiz — A Complete Journey** — Most apps throw you into quizzes immediately. Math Champ builds confidence first with animated lessons, then lets you practice safely before the final challenge.
 
 ---
 ## 📘 Scope of the Math Champ App
