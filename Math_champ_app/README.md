@@ -36,6 +36,8 @@ For many kids in grades 4–7, traditional math practice feels like a chore. The
 | **No Feeling of Victory** | **Celebratory Rewards** — Confetti explosions, scaling animations, rotating effects, and encouraging mascot messages like *"Let's divide easy, champ!"* |
 | **The "I Can't Do Math" Wall** | **Configurable Difficulty** — Easy (1-10), Medium (20-50), or Hard (30-100). Kids start where they're comfortable and level up when ready. |
 
+### 🧠 What Makes Math Champ Different?
+
 
 ---
 ## 📘 Scope of the Math Champ App
