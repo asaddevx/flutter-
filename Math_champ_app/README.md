@@ -24,6 +24,9 @@ For many kids in grades 4–7, traditional math practice feels like a chore. The
 > *The result?* Math anxiety starts early. Confidence crumbles. And a child who could love numbers decides they hate them — forever.
 
 ---
+## 💡 The Solution We Built
+
+**Math Champ** is the "Super-Suit" for learning arithmetic. I engineered this app to turn **Addition, Subtraction, Multiplication, and Division** into an interactive quest.
 
 
 ---
