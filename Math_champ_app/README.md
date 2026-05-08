@@ -21,6 +21,10 @@ For many kids in grades 4–7, traditional math practice feels like a chore. The
 - 🏆 **No Feeling of Victory** — Solving 10 problems on paper gets you... a checkmark. No confetti. No sound effects. No "Champ" moment. Learning feels like a job, not a game.
 - 🚧 **The "I Can't Do Math" Wall** — After a few wrong answers, kids shut down. They decide they're "bad at math" and stop trying.
 
+> *The result?* Math anxiety starts early. Confidence crumbles. And a child who could love numbers decides they hate them — forever.
+
+---
+
 
 ---
 ## 📘 Scope of the Math Champ App
