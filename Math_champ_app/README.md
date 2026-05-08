@@ -4,6 +4,8 @@
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Riverpod](https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge)](https://riverpod.dev/)
 [![Animations](https://img.shields.io/badge/Animations-FF6F00?style=for-the-badge)](https://pub.dev/packages/flutter_animate)
+[![Gamification](https://img.shields.io/badge/Gamification-00BFFF?style=for-the-badge)](https://en.wikipedia.org/wiki/Gamification)
+[![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge)](https://material.io/)
 
 
 ## 📘 Scope of the Math Champ App
