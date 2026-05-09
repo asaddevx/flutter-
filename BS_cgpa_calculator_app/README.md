@@ -15,6 +15,8 @@ The **BS CGPA Calculator App** is an academic productivity tool designed specifi
 Most students navigate their academic journey in the dark, reacting to grades instead of planning for them. The result is preventable stress, missed opportunities, and financial waste. Here is the reality students face:
 
 - **❓ The "What-If" Fog:** Students know their current grade, but have no idea what score they need on the final exam to achieve their target. The uncertainty is paralyzing.
+- **🧮 Spreadsheet Math Errors:** Students resort to mental math or error-prone spreadsheets to try and forecast their CGPA. A single miscalculated credit hour can lead to a disastrous wrong conclusion.
+- **🎯 The Invisible Target:** A student with a 2.8 CGPA aiming for a Dean's List 3.5 doesn't know the required future semester GPA. Without this foresight, the goal remains a distant, often unreachable dream.
 
 
 ---
