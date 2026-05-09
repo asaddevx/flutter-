@@ -40,6 +40,8 @@ Most students navigate their academic journey in the dark, reacting to grades in
 ### 🧠 What Makes This Academic Engine Different?
 
 - **Not Just a Calculator, But a Strategy Engine:** This app doesn't tell you what your grade *is*; it tells you what you need to do to get the grade you *want*.
+- **Policy-Aware Precision:** The app is built with institutional logic, offering a **COMSATS policy toggle** to switch between standard GPA calculation and the university's specific mark-based system. This ensures flawless, policy-compliant accuracy.
+- **From Data to a Verifiable Record:** The history and export features turn scattered calculations into a trusted, portable academic ledger, empowering students for scholarship applications and job interviews.
 
 ---
 #### **2. Objectives**
