@@ -37,6 +37,10 @@ Most students navigate their academic journey in the dark, reacting to grades in
 | **📂 Lost Institutional Memory** | **Secure, Exportable History:** All calculations—GPA and CGPA scenarios—are auto-saved. Students can build a permanent, verifiable academic record and export their complete history as a CSV or PDF for advisors or personal records. |
 | **🏢 The Brand Disconnect** | **Campus Carousel & Personalized UI:** A dynamic web-based carousel showcases all supported university campuses. Combined with a sleek, modern UI featuring full Dark Mode support, the app builds a personalized connection to the student's academic home. |
 
+### 🧠 What Makes This Academic Engine Different?
+
+- **Not Just a Calculator, But a Strategy Engine:** This app doesn't tell you what your grade *is*; it tells you what you need to do to get the grade you *want*.
+
 ---
 #### **2. Objectives**
 
