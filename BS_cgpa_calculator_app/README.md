@@ -8,14 +8,9 @@
 
 The **BS CGPA Calculator App** is an academic productivity tool designed specifically for Bachelor's (BS) students to track, calculate, and strategize their GPA/CGPA goals. It provides interactive modules for semester-wise GPA calculations, CGPA forecasting, and academic planning, including history tracking and goal-setting features. The app also includes visual tools such as a carousel of university campuses to enhance user engagement and personalization.
 
+---
 
-## 🚨 The Industry Problem: Fragmented Institutional Accountability
-
-In large-scale environments like universities and professional organizations, accountability often fails due to fragmented communication channels. Issues are reported but not tracked, calculations are done but not verified, and tasks are assigned but never escalated, leading to systemic operational decay.
-
-## 💡 The Solution: Engineered Accountability & High-Performance Utility
-
-My Flutter engineering focus is on building **High-Fidelity Accountability Systems**. I specialize in creating mobile tools that enforce strict institutional logic—from automated escalation hierarchies to policy-compliant academic calculators—ensuring that data isn't just stored, but used to drive operational integrity.
+## 🎯 The Problem We Saw
 
 
 
