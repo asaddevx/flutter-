@@ -24,6 +24,9 @@ Most students navigate their academic journey in the dark, reacting to grades in
 > *The result?* Chronic academic anxiety, a lack of strategic planning, and a feeling of helplessness that often leads to students dropping out. Nearly 60% of college students face delays in completing their degree due to preventable planning issues.
 
 ---
+## 💡 The Solution: A Strategic Academic Engine
+
+**BS CGPA Calculator** transforms students from passive grade recipients into proactive academic strategists. It replaces guesswork with data-driven foresight.
 
 ---
 #### **2. Objectives**
