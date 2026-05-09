@@ -19,6 +19,8 @@ Most students navigate their academic journey in the dark, reacting to grades in
 - **🎯 The Invisible Target:** A student with a 2.8 CGPA aiming for a Dean's List 3.5 doesn't know the required future semester GPA. Without this foresight, the goal remains a distant, often unreachable dream.
 - **📉 The "One Bad Semester" Spiral:** After a poor semester, students feel their entire academic future is ruined because they can't see a viable path to recover.
 - **📂 Lost Institutional Memory:** Calculations are done once, on a scrap of paper, and then lost forever. There is no history to track progress or analyze performance patterns over time.
+- **🏢 The Brand Disconnect:** Students have no visual or emotional connection to their university's broader ecosystem, limiting institutional pride and engagement.
+
 
 ---
 #### **2. Objectives**
