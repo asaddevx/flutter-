@@ -33,6 +33,9 @@ Most students navigate their academic journey in the dark, reacting to grades in
 | **❓ The "What-If" Fog** | **Target CGPA Calculator:** Input your current CGPA and desired target CGPA. The engine instantly calculates the exact GPA required in future semesters to reach your goal. It also suggests possible GPA distributions per subject, turning anxiety into an actionable roadmap. |
 | **🧮 Spreadsheet Math Errors** | **Automated CGPA Comparison (1-8 Semesters):** Input past semester GPAs, and the engine flawlessly computes your current CGPA. It then calculates the precise GPA needed to meet a target, eliminating all manual math risk. |
 | **🎯 The Invisible Target** | **Individual Semester GPA Calculator:** Pinpoint accuracy for semester performance using both standard 4.0 GPA and mark-based systems (including a dedicated COMSATS toggle). Provides motivational feedback based on results, turning data into positive reinforcement. |
+| **📉 The "One Bad Semester" Spiral** | **Goal-Setting & Forecasting Modules:** By clearly showing the required trajectory for improvement, the app provides a psychological boost, proving that recovery is not only possible but mathematically achievable. |
+| **📂 Lost Institutional Memory** | **Secure, Exportable History:** All calculations—GPA and CGPA scenarios—are auto-saved. Students can build a permanent, verifiable academic record and export their complete history as a CSV or PDF for advisors or personal records. |
+| **🏢 The Brand Disconnect** | **Campus Carousel & Personalized UI:** A dynamic web-based carousel showcases all supported university campuses. Combined with a sleek, modern UI featuring full Dark Mode support, the app builds a personalized connection to the student's academic home. |
 
 ---
 #### **2. Objectives**
