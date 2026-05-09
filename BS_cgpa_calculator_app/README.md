@@ -17,7 +17,8 @@ Most students navigate their academic journey in the dark, reacting to grades in
 - **❓ The "What-If" Fog:** Students know their current grade, but have no idea what score they need on the final exam to achieve their target. The uncertainty is paralyzing.
 - **🧮 Spreadsheet Math Errors:** Students resort to mental math or error-prone spreadsheets to try and forecast their CGPA. A single miscalculated credit hour can lead to a disastrous wrong conclusion.
 - **🎯 The Invisible Target:** A student with a 2.8 CGPA aiming for a Dean's List 3.5 doesn't know the required future semester GPA. Without this foresight, the goal remains a distant, often unreachable dream.
-
+- **📉 The "One Bad Semester" Spiral:** After a poor semester, students feel their entire academic future is ruined because they can't see a viable path to recover.
+- **📂 Lost Institutional Memory:** Calculations are done once, on a scrap of paper, and then lost forever. There is no history to track progress or analyze performance patterns over time.
 
 ---
 #### **2. Objectives**
