@@ -31,6 +31,8 @@ Most students navigate their academic journey in the dark, reacting to grades in
 | The Problem | The Strategic Solution |
 | :--- | :--- |
 | **❓ The "What-If" Fog** | **Target CGPA Calculator:** Input your current CGPA and desired target CGPA. The engine instantly calculates the exact GPA required in future semesters to reach your goal. It also suggests possible GPA distributions per subject, turning anxiety into an actionable roadmap. |
+| **🧮 Spreadsheet Math Errors** | **Automated CGPA Comparison (1-8 Semesters):** Input past semester GPAs, and the engine flawlessly computes your current CGPA. It then calculates the precise GPA needed to meet a target, eliminating all manual math risk. |
+| **🎯 The Invisible Target** | **Individual Semester GPA Calculator:** Pinpoint accuracy for semester performance using both standard 4.0 GPA and mark-based systems (including a dedicated COMSATS toggle). Provides motivational feedback based on results, turning data into positive reinforcement. |
 
 ---
 #### **2. Objectives**
