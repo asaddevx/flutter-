@@ -21,6 +21,9 @@ Most students navigate their academic journey in the dark, reacting to grades in
 - **📂 Lost Institutional Memory:** Calculations are done once, on a scrap of paper, and then lost forever. There is no history to track progress or analyze performance patterns over time.
 - **🏢 The Brand Disconnect:** Students have no visual or emotional connection to their university's broader ecosystem, limiting institutional pride and engagement.
 
+> *The result?* Chronic academic anxiety, a lack of strategic planning, and a feeling of helplessness that often leads to students dropping out. Nearly 60% of college students face delays in completing their degree due to preventable planning issues.
+
+---
 
 ---
 #### **2. Objectives**
