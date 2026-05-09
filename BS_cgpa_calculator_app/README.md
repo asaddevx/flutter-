@@ -14,6 +14,8 @@ The **BS CGPA Calculator App** is an academic productivity tool designed specifi
 
 Most students navigate their academic journey in the dark, reacting to grades instead of planning for them. The result is preventable stress, missed opportunities, and financial waste. Here is the reality students face:
 
+- **❓ The "What-If" Fog:** Students know their current grade, but have no idea what score they need on the final exam to achieve their target. The uncertainty is paralyzing.
+
 
 ---
 #### **2. Objectives**
