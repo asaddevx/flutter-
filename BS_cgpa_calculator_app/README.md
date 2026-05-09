@@ -28,6 +28,10 @@ Most students navigate their academic journey in the dark, reacting to grades in
 
 **BS CGPA Calculator** transforms students from passive grade recipients into proactive academic strategists. It replaces guesswork with data-driven foresight.
 
+| The Problem | The Strategic Solution |
+| :--- | :--- |
+| **❓ The "What-If" Fog** | **Target CGPA Calculator:** Input your current CGPA and desired target CGPA. The engine instantly calculates the exact GPA required in future semesters to reach your goal. It also suggests possible GPA distributions per subject, turning anxiety into an actionable roadmap. |
+
 ---
 #### **2. Objectives**
 
