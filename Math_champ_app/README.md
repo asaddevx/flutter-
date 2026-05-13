@@ -107,7 +107,7 @@ The current version does **not** include:
 
 | Settings |
 |----------|
-| <img src="https://github.com/user-attachments/assets/4f5645ff-7060-499f-811b-a0ff23f52f49" width="200"/> |
+| <img src="https://github.com/user-attachments/assets/0a14df1f-3e2c-4646-99b7-5225b4048c28" width="200"/> |
 
 ---
 
