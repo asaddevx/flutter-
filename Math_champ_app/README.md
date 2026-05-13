@@ -1,4 +1,4 @@
-# 🧮 Math Champ
+<img width="719" height="1591" alt="image" src="https://github.com/user-attachments/assets/2d7f7a4e-cd7e-424a-9700-20c8decf466d" /># 🧮 Math Champ
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
@@ -137,21 +137,18 @@ The current version does **not** include:
 |-------------|----------------|----------------|-------------|-------------|
 | <img src="https://github.com/user-attachments/assets/3a6d2aa2-bbcb-4d48-935a-0f52ade61bfd" width="200"/> | <img src="https://github.com/user-attachments/assets/a435d16f-d0e8-40b6-b618-300bd92f1437" width="200"/> | <img src="https://github.com/user-attachments/assets/82821ea2-c6d2-43f1-81e2-94c23d7a4bcd" width="200"/> | <img src="https://github.com/user-attachments/assets/8b2913dd-09de-4dc3-b381-501550d92742" width="200"/> | <img src="https://github.com/user-attachments/assets/645580df-babd-41e4-9282-919ba589a1e3" width="200"/> |
 
-| Quiz Details |
-|--------------|
-| <img src="https://github.com/user-attachments/assets/ec466c0e-6519-409b-a397-7699e72b414c" width="200"/> |
 
 ---
 
 ### 🎮 Games
 
-| Addition Game | Subtraction Game | Collect Stars | Multiplication Game |
-|---------------|------------------|----------------|----------------------|
-| <img src="https://github.com/user-attachments/assets/e3cf3e5b-ffd7-4cb2-82bf-206f17c8a8c7" width="200"/> | <img src="https://github.com/user-attachments/assets/365e315a-17b3-4b40-8080-ee595c62f936" width="200"/> | <img src="https://github.com/user-attachments/assets/369fd70c-6faa-4945-abaf-4230435ea6b5" width="200"/> | <img src="https://github.com/user-attachments/assets/6d7ae9de-0423-49c4-99f9-124f01dc251c" width="200"/> |
+| Dashboard | Addition Games | Balloon Pop |
+|-----------|----------------|-------------|
+| <img src="https://github.com/user-attachments/assets/feac699c-ef9e-4273-96e8-b9231c46a251" width="200"/> | <img src="https://github.com/user-attachments/assets/fe96fd5f-f301-4f4f-867c-ab2a0584c19d" width="200"/> | <img src="https://github.com/user-attachments/assets/d337d3f9-9b1a-4691-af81-29a658adedc0" width="200"/> |
 
-| Division Game |
-|----------------|
-| <img src="https://github.com/user-attachments/assets/759c1c38-9ad0-4bfb-b9f4-4c07991cd8c2" width="200"/> |
+| Math Race | Treasure Hunt | Space Math | Quick Fire |
+|-----------|---------------|------------|------------|
+| <img src="https://github.com/user-attachments/assets/cd7fd040-20fe-47d0-92ce-381ed1e6bfb6" width="200"/> | <img src="https://github.com/user-attachments/assets/3496a15e-7742-491e-940f-526658ead989" width="200"/> | <img src="https://github.com/user-attachments/assets/9908e43d-d95e-49dd-8dd1-2bf52b611897" width="200"/> | <img src="https://github.com/user-attachments/assets/1d040018-567a-4fd3-b51e-c0b58d18bcd4" width="200"/>|
 
 ---
 
@@ -213,7 +210,6 @@ A delightful and effective educational app that transforms traditional math prac
 </p>
 
 ---
-
 
 
 
