@@ -125,9 +125,9 @@ The current version does **not** include:
 
 ### 🧩 Practice
 
-| Intro | Choose Practice | Reveal Practice |
-|-------|------------------|------------------|
-| <img src="https://github.com/user-attachments/assets/8fb582db-1135-4cba-9997-47a599ff2f4f" width="200"/> | <img src="https://github.com/user-attachments/assets/7f6d6cf3-a219-4209-be9c-eb566c016984" width="200"/> | <img src="https://github.com/user-attachments/assets/c3e40295-4211-4667-8c13-e285a45020ee" width="200"/> |
+| Choose Practice | Select Lessons | Customize Practice | Reveal Practice |
+|----------------|----------------|--------------------|-----------------|
+| <img src="https://github.com/user-attachments/assets/f7d4f5e0-4224-4931-ac21-5a8bdaac0809" width="200"/> | <img src="https://github.com/user-attachments/assets/b8f421ee-064a-4f45-989e-1f8e0951df10" width="200"/> | <img src="https://github.com/user-attachments/assets/b7d46cdd-3a84-4e4d-8ba0-13f2e94fcb46" width="200"/> | <img src="https://github.com/user-attachments/assets/d87ca915-eedf-4770-b998-58bcd6ba81f8" width="200"/> |
 
 ---
 
@@ -213,6 +213,8 @@ A delightful and effective educational app that transforms traditional math prac
 </p>
 
 ---
+
+
 
 
 
