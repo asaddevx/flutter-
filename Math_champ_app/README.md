@@ -113,13 +113,13 @@ The current version does **not** include:
 
 ### ➕ Learning (Addition)
 
-| Dashboard | Learning Intro | Choose Level | Reveal Screen |
-|-----------|----------------|---------------|----------------|
-| <img src="https://github.com/user-attachments/assets/cade1517-6238-4aca-b6cf-894052d5c54b" width="200"/> | <img src="https://github.com/user-attachments/assets/30563668-0405-4a69-aba7-1f9679476a15" width="200"/> | <img src="https://github.com/user-attachments/assets/a80d097d-4142-47bb-9b23-069d4d5aaae7" width="200"/> | <img src="https://github.com/user-attachments/assets/cb0adba8-e34c-45b2-aa04-f74cec0adc2e" width="200"/> |
+| Dashboard | Choose Learning | Select Lessons |
+|-----------|----------------|----------------|
+| <img src="https://github.com/user-attachments/assets/db24c8d0-ce77-4cfa-895f-264f2f1934c7" width="200"/> | <img src="https://github.com/user-attachments/assets/23a38936-eebf-4b6a-9337-7b6c4e038d86" width="200"/> | <img src="https://github.com/user-attachments/assets/4d591524-3b25-4045-a43a-7debf252019a" width="200"/> |
 
-| Reveal Solution |
-|------------------|
-| <img src="https://github.com/user-attachments/assets/2ac35edd-c466-4416-80ac-32f6a79f4b12" width="200"/> |
+| Custom Addition | Reveal Question |
+|----------------|-----------------|
+| <img src="https://github.com/user-attachments/assets/b572eb7b-d9f6-4b74-83d2-409a6649a0be" width="200"/> | <img src="https://github.com/user-attachments/assets/855123cd-73eb-40ed-84d4-a7f49a8a4d14" width="200"/> |
 
 ---
 
@@ -213,6 +213,7 @@ A delightful and effective educational app that transforms traditional math prac
 </p>
 
 ---
+
 
 
 
