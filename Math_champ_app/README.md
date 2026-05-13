@@ -102,7 +102,7 @@ The current version does **not** include:
 
 | Loading Screen | Home (Dark Mode) | Home (Light Mode) | Menu |
 |----------------|------------------|--------------------|------|
-| <img src="https://github.com/user-attachments/assets/15d8edb0-e1b0-4a3c-a220-07d12b963830" width="200"/> | <img src="https://github.com/user-attachments/assets/7b5ddbed-1d7c-4dc5-9db4-a2fa430ba063" width="200"/> | <img src="https://github.com/user-attachments/assets/44609d46-8261-4358-b666-c9547306feee" width="200"/> | <img src="https://github.com/user-attachments/assets/df7da7a7-4317-4c7a-b136-239fee185269" width="200"/> |
+| <img src="https://github.com/user-attachments/assets/15d8edb0-e1b0-4a3c-a220-07d12b963830" width="200"/> | <img src="https://github.com/user-attachments/assets/f4d9ed6c-7f79-4bee-86c8-ab4f090cb042" width="200"/> | <img src="https://github.com/user-attachments/assets/44609d46-8261-4358-b666-c9547306feee" width="200"/> | <img src="https://github.com/user-attachments/assets/2534dfe8-8905-447f-bc1c-f0c091330d8e" width="200"/> |
 
 
 | Settings |
