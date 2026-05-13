@@ -10,7 +10,18 @@
 **Math Champ** is a fun, educational mobile app designed to help kids in grades 4–7 (ages 9–13) build confidence in basic math skills. The app offers a vibrant, interactive experience focused on **Addition**, **Subtraction**, **Multiplication**, and **Division** — all wrapped in a gamified learning environment.
 
 ---
+<div align="center">
 
+### 🎮 See Math Champ in Action
+
+[![Watch Demo Video](https://img.shields.io/badge/🎬_WATCH_DEMO_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZtolripVC0A?si=mN8IBaXUL9mYD0wp)
+[![Get on Google Play](https://img.shields.io/badge/📱_GET_ON_GOOGLE_PLAY-00C853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.devteen.mathchampkids)
+
+*Watch the full demo or download Math Champ from the Play Store today!*
+
+</div>
+
+---
 ## 🎯 The Problem We Saw
 
 For many kids in grades 4–7, traditional math practice feels like a chore. The barriers are real:
