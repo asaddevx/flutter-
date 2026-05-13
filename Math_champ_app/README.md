@@ -1,4 +1,4 @@
-<img width="719" height="1591" alt="image" src="https://github.com/user-attachments/assets/2d7f7a4e-cd7e-424a-9700-20c8decf466d" /># 🧮 Math Champ
+# 🧮 Math Champ
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
