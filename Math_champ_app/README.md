@@ -133,9 +133,9 @@ The current version does **not** include:
 
 ### ❓ Quiz Mode
 
-| Quiz Intro | Set Quiz | Reveal Quiz | Quiz Result |
-|------------|-----------|--------------|--------------|
-| <img src="https://github.com/user-attachments/assets/0c05fb24-81c6-4dac-a7bd-285e18c1b967" width="200"/> | <img src="https://github.com/user-attachments/assets/c6e6bb12-d10a-466e-8092-a5922f9baaed" width="200"/> | <img src="https://github.com/user-attachments/assets/4cb209ec-45ad-4ea7-b89b-d4050b670c6e" width="200"/> | <img src="https://github.com/user-attachments/assets/644bad78-60d0-43c3-883f-916c860bf729" width="200"/> |
+| Choose Quiz | Select Lessons | Customize Quiz | Reveal Quiz | View Result |
+|-------------|----------------|----------------|-------------|-------------|
+| <img src="https://github.com/user-attachments/assets/3a6d2aa2-bbcb-4d48-935a-0f52ade61bfd" width="200"/> | <img src="https://github.com/user-attachments/assets/a435d16f-d0e8-40b6-b618-300bd92f1437" width="200"/> | <img src="https://github.com/user-attachments/assets/82821ea2-c6d2-43f1-81e2-94c23d7a4bcd" width="200"/> | <img src="https://github.com/user-attachments/assets/8b2913dd-09de-4dc3-b381-501550d92742" width="200"/> | <img src="https://github.com/user-attachments/assets/645580df-babd-41e4-9282-919ba589a1e3" width="200"/> |
 
 | Quiz Details |
 |--------------|
@@ -213,6 +213,7 @@ A delightful and effective educational app that transforms traditional math prac
 </p>
 
 ---
+
 
 
 
