@@ -163,6 +163,14 @@ The current version does **not** include:
 | <img src="https://github.com/user-attachments/assets/cd7fd040-20fe-47d0-92ce-381ed1e6bfb6" width="200"/> | <img src="https://github.com/user-attachments/assets/3496a15e-7742-491e-940f-526658ead989" width="200"/> | <img src="https://github.com/user-attachments/assets/9908e43d-d95e-49dd-8dd1-2bf52b611897" width="200"/> | <img src="https://github.com/user-attachments/assets/1d040018-567a-4fd3-b51e-c0b58d18bcd4" width="200"/>|
 
 ---
+## 🎨 Theme & Sound System
+
+### 🌓 Theme Engine
+- **Dark Mode (Default)**: Teal/Orange accents with floating bubbles
+- **Light Mode**: Indigo/Teal accents with falling math symbols
+- **Persistent**: Your preferences save automatically
+
+---
 
 ## ✨ Math Champ Key Highlights
 
