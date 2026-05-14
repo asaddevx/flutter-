@@ -176,6 +176,18 @@ The current version does **not** include:
 - **13+ Sound Effects**:
 
 ---
+### 🎮 Games (Learn Through Play)
+
+| Game | Operation | Mechanics |
+|:-----|:----------|:----------|
+| **Balloon Pop** | Addition | Pop balloons with correct answers |
+| **Math Race** | Subtraction | Race against time |
+| **Treasure Hunt** | Multiplication | Pirate-themed adventure |
+| **Space Math** | Division | Space-themed challenges |
+| **Quick Fire** | Mixed | Fast-paced rapid fire |
+
+*Each game tracks scores and rewards correct answers with confetti & sounds*
+---
 
 ## ✨ Math Champ Key Highlights
 
