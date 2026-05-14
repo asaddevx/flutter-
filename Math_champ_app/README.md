@@ -168,7 +168,8 @@ The current version does **not** include:
 ### 🌓 Theme Engine
 
 - **Dark Mode**: Deep navy/charcoal background with **soft purple/lavender accents** and floating bubble animations
-
+- **Light Mode**: Clean white/off-white background with **deep indigo/purple accents** and falling math symbol animations
+- **Persistent**: Your preferences save automatical
 
 ### 🔊 Audio Feedback
 - **Queue-based playback** — No overlapping sounds
