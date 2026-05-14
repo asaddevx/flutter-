@@ -166,9 +166,9 @@ The current version does **not** include:
 ## 🎨 Theme & Sound System
 
 ### 🌓 Theme Engine
-- **Dark Mode (Default)**: Teal/Orange accents with floating bubbles
-- **Light Mode**: Indigo/Teal accents with falling math symbols
-- **Persistent**: Your preferences save automatically
+
+- **Dark Mode**: Deep navy/charcoal background with **soft purple/lavender accents** and floating bubble animations
+
 
 ### 🔊 Audio Feedback
 - **Queue-based playback** — No overlapping sounds
