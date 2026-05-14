@@ -176,6 +176,12 @@ The current version does **not** include:
 - **Global mute toggle** — One tap to silence
 - **13+ Sound Effects**:
 
+### 🎬 Dynamic Animations
+
+| Mode | Background Animation | Tap Effect |
+|:-----|:---------------------|:------------|
+
+
 ---
 ### 🎮 Games (Learn Through Play)
 
