@@ -170,6 +170,11 @@ The current version does **not** include:
 - **Light Mode**: Indigo/Teal accents with falling math symbols
 - **Persistent**: Your preferences save automatically
 
+### 🔊 Audio Feedback
+- **Queue-based playback** — No overlapping sounds
+- **Global mute toggle** — One tap to silence
+- **13+ Sound Effects**:
+
 ---
 
 ## ✨ Math Champ Key Highlights
