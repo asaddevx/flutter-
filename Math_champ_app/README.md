@@ -180,7 +180,8 @@ The current version does **not** include:
 
 | Mode | Background Animation | Tap Effect |
 |:-----|:---------------------|:------------|
-
+| **Dark Mode** | Rising bubbles with math symbols | Bubble pop |
+| **Light Mode** | Falling math symbols (+, -, ×, ÷, =) | Symbol burst |
 
 ---
 ### 🎮 Games (Learn Through Play)
