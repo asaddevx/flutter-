@@ -183,6 +183,10 @@ The current version does **not** include:
 | **Dark Mode** | Rising bubbles with math symbols | Bubble pop |
 | **Light Mode** | Falling math symbols (+, -, ×, ÷, =) | Symbol burst |
 
+### 💾 Persistence
+
+- Theme preference saved via `SharedPreferences`
+- Sound on/off remembered across sessions
 ---
 ### 🎮 Games (Learn Through Play)
 
