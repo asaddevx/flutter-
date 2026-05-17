@@ -1,10 +1,10 @@
-### 📱 Smart Complaint Management System Scope
+### 📱 Smart Complaint Management System
 
 ---
 
 ## 🎯 Objective
 
-Develop a **Flutter-based complaint management system** for the **Computer Science (CS)** department, allowing students to submit complaints to their **Batch Advisors**, who may escalate them to the **Head of Department (HOD)**. Admins manage users, batches, and departments through manual input or **CSV import**. The system supports 8 CS batches (FA18–FA25).
+ **Flutter-based complaint management system** for the **Computer Science (CS)** department, allowing students to submit complaints to their **Batch Advisors**, who may escalate them to the **Head of Department (HOD)**. Admins manage users, batches, and departments through manual input or **CSV import**. The system supports 8 CS batches (FA18–FA25).
 
 ---
 
