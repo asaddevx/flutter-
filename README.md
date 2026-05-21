@@ -23,6 +23,11 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 **The Solution:** A fully gamified math engine featuring **interactive audio-visual feedback**, progressive difficulty scaling, and 5 exciting games (Balloon Pop, Space Math, Treasure Hunt, Math Race, Quick Fire).
 
+**Key Features:**
+- 📖 **Learn Mode** – Animated lessons for tables 1-20
+- 💪 **Practice Mode** – Unlimited drills with instant feedback
+
+
 ## 🛡️ VeraBolt: The "Resilient Intelligence" Narrative
 
 ### 🚨 The Problem: The "Cloud-Fragile" Barrier
