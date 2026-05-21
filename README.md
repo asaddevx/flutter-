@@ -14,6 +14,7 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 ---
 
+
 ## 🛡️ VeraBolt: The "Resilient Intelligence" Narrative
 
 ### 🚨 The Problem: The "Cloud-Fragile" Barrier
@@ -23,6 +24,12 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 ### 💡 The Solution: Local-First AI Orchestration
 
 **VeraBolt** shatters this barrier by bringing **Enterprise AI** directly to the edge. Every card detection, every GTO strategy calculation, and every license check is performed on-device. By combining an **Isar NoSQL database** with a custom-trained **YOLOv8 Vision Engine**, VeraBolt ensures zero-latency performance and 100% data privacy. Locked by **AES-256 Hardware Fingerprinting**, the system remains a secure, private vault that functions even in "Airplane Mode."
+
+## 📱 Featured Projects
+
+### 🏆 [Math Champ](https://github.com/asaddevx/flutter-/tree/main/Math_champ_app/) | Live on Google Play 🎮
+
+
 
 ### ⚡ [VeraBolt](https://github.com/asaddevx/flutter-/tree/main/verabolt/) | Pro AI & Licensing SaaS
 
