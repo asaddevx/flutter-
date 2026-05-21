@@ -78,12 +78,6 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 * **The Solution**: A policy-compliant engine tailored to **COMSATS University** grading standards, allowing for precise GPA/CGPA forecasting and goal setting.
 * **Key Tech**: Dart Logic, Local Persistence.
 
-### 🏆 [Math Champ](https://github.com/asaddevx/flutter-/tree/main/Math_champ_app/) | Gamified Logic
-
-* **The Problem**: Educational tools often lack the high-fidelity feedback needed to engage young learners in logic building.
-* **The Solution**: A gamified math engine featuring **Interactive Audio-Visual Feedback** and progressive difficulty scaling to foster logical thinking.
-* **Key Tech**: Flutter Animation Controller, Audio Players.
-
 ### 📝 [Task Manager & Tracker](https://github.com/asaddevx/flutter-/tree/main/Task_Manager_app/) | Persistent Accountability
 
 * **The Problem**: Generic task apps lack the "Handshake" between cloud persistence and local state for reliable tracking.
