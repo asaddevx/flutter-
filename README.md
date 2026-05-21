@@ -30,6 +30,11 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 - 🌓 **Dark Mode** – Eye-friendly interface
 - 🔇 **Sound Toggle** – Optional audio feedback
 
+**Key Tech:** Flutter, Riverpod, just_audio, flutter_animate, SharedPreferences
+
+**📱 Live on Google Play
+
+---
 
 ## 🛡️ VeraBolt: The "Resilient Intelligence" Narrative
 
