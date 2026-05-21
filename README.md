@@ -13,6 +13,11 @@ In large-scale environments like universities and professional organizations, ac
 My Flutter engineering focus is on building **High-Fidelity Accountability Systems**. I specialize in creating mobile tools that enforce strict institutional logic—from automated escalation hierarchies to policy-compliant academic calculators—ensuring that data isn't just stored, but used to drive operational integrity.
 
 ---
+## 📱 Featured Projects
+
+### 🏆 [Math Champ](https://github.com/asaddevx/flutter-/tree/main/Math_champ_app/) | Live on Google Play 🎮
+
+[![Google Play](https://img.shields.io/badge/Get_it_on_Google_Play-00C853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.devteen.mathchampkids)
 
 
 ## 🛡️ VeraBolt: The "Resilient Intelligence" Narrative
@@ -23,12 +28,7 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 
 ### 💡 The Solution: Local-First AI Orchestration
 
-**VeraBolt** shatters this barrier by bringing **Enterprise AI** directly to the edge. Every card detection, every GTO strategy calculation, and every license check is performed on-device. By combining an **Isar NoSQL database** with a custom-trained **YOLOv8 Vision Engine**, VeraBolt ensures zero-latency performance and 100% data privacy. Locked by **AES-256 Hardware Fingerprinting**, the system remains a secure, private vault that functions even in "Airplane Mode."
-
-## 📱 Featured Projects
-
-### 🏆 [Math Champ](https://github.com/asaddevx/flutter-/tree/main/Math_champ_app/) | Live on Google Play 🎮
-
+**VeraBolt** shatters this barrier by bringing **Enterprise AI** directly to the edge. Every card detection, every GTO strategy calculation, and every license check is performed on-device. By combining an **Isar NoSQL database** with a custom-trained **YOLOv8 Vision Engine**, VeraBolt ensures zero-latency performance and 100% data privacy. Locked by **AES-256 Hardware Fingerprinting**, the system remains a secure, private vault that functions even in "Airplane Mode.
 
 
 ### ⚡ [VeraBolt](https://github.com/asaddevx/flutter-/tree/main/verabolt/) | Pro AI & Licensing SaaS
