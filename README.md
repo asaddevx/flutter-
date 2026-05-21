@@ -19,6 +19,7 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 [![Google Play](https://img.shields.io/badge/Get_it_on_Google_Play-00C853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.devteen.mathchampkids)
 
+**The Problem:** Educational apps often lack high-fidelity feedback to engage young learners in logic building. Kids get bored, parents get frustrated, and math anxiety starts early
 
 ## 🛡️ VeraBolt: The "Resilient Intelligence" Narrative
 
