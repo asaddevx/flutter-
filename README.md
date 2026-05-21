@@ -26,6 +26,9 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 **Key Features:**
 - 📖 **Learn Mode** – Animated lessons for tables 1-20
 - 💪 **Practice Mode** – Unlimited drills with instant feedback
+- ⚔️ **Quiz Mode** – Timed challenges (Easy/Medium/Hard)
+- 🌓 **Dark Mode** – Eye-friendly interface
+- 🔇 **Sound Toggle** – Optional audio feedback
 
 
 ## 🛡️ VeraBolt: The "Resilient Intelligence" Narrative
