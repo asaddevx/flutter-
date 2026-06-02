@@ -119,7 +119,6 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
 - Online cloud sync
 - Multi-user / shop staff login
 - Payment integration
-- Advanced analytics dashboard
 
 ---
 ## 📸 App Screenshots
