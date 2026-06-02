@@ -61,7 +61,7 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
 
 ---
 
-## 📘 Scope of the DarziVault App
+## 📘  DarziVault App
 
 **DarziVault** is a fully offline tailor measurement management app that helps local tailors save client details and body measurements digitally in a safe, searchable, and editable format.
 
