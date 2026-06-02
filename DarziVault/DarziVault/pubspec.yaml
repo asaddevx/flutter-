@@ -1,0 +1,96 @@
+name: darzivault
+description: "Digital Measurement Vault for Tailors"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  
+  # State Management
+  flutter_riverpod: ^2.5.1
+  riverpod_annotation: ^2.3.5
+  
+  # Local Database
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  
+  # Code Generation
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.9.0
+  
+  # UI & Media
+  image_picker: ^1.1.0
+  cached_network_image: ^3.3.1
+  
+  # Localization
+  intl: ^0.20.2
+  
+  # File & Sharing
+  path_provider: ^2.1.3
+  share_plus: ^10.0.0
+  permission_handler: ^11.3.1
+  
+  # PDF Generation
+  pdf: ^3.11.0
+  printing: ^5.12.0
+  
+  # Voice Input
+  speech_to_text: ^7.0.0
+  
+  # Utilities
+  uuid: ^4.4.0
+  flutter_local_notifications: ^17.1.2
+  timezone: ^0.9.4
+  path: ^1.9.0
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  
+  # Code Generation
+  build_runner: ^2.4.9
+  riverpod_generator: ^2.4.0
+  hive_generator: ^2.0.1
+  freezed: ^2.5.2
+  json_serializable: ^6.8.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/translations/
+  
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+          weight: 700
+    
+    - family: NotoNastaliqUrdu
+      fonts:
+        - asset: assets/fonts/NotoNastaliqUrdu/NotoNastaliqUrdu-Regular.ttf
+        - asset: assets/fonts/NotoNastaliqUrdu/NotoNastaliqUrdu-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/NotoNastaliqUrdu/NotoNastaliqUrdu-Bold.ttf
+          weight: 700
+
+    - family: NotoNaskhArabic
+      fonts:
+        - asset: assets/fonts/NotoNaskhArabic/NotoNaskhArabic-Regular.ttf
