@@ -122,18 +122,16 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
 - Advanced analytics dashboard
 
 ---
+## 📸 App Screenshots
 
-# DarziVault App
+### 🔐 Authentication & Loading
 
-### 📸 App Screenshots
-
-*(Screenshots will be added after development)*
-
-**Dashboard** | **Clients List** | **Add Client** | **Measurements Screen**
-:---:|:---:|:---:|:---:
-*(Image Placeholder)* | *(Image Placeholder)* | *(Image Placeholder)* | *(Image Placeholder)*
+| Loading Screen |
+|:---:|
+| <img src="https://github.com/user-attachments/assets/de44166a-ef94-421b-aac0-0c9b9ab11fad" width="200"/> |
 
 ---
+
 
 ## ✨ Key Highlights
 
