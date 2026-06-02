@@ -160,10 +160,15 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
   <img src="https://img.shields.io/badge/Urdu%20+%20English-4CAF50?style=for-the-badge" alt="Urdu + English" />
 </p>
 
-## 📫 Connect
+---
+
+
+
+## 📫 Connect with the Architect
 
 <div align="center">
-  <p><strong>Built with passion for local businesses</strong></p>
+  <p><strong>SYSTEMS_STATUS: FLUTTER_SYSTEMS_OPERATIONAL 🟢</strong></p>
+  <p>Let's build something disruptive. 🚀</p>
 
   <a href="https://github.com/yourusername/darzivault">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
