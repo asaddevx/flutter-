@@ -151,12 +151,14 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=flutter-&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages" />
 </p>
 
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Hive](https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge)](https://pub.dev/packages/hive)
-[![Riverpod](https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge)](https://riverpod.dev/)
-[![Offline First](https://img.shields.io/badge/Offline%20First-00BFFF?style=for-the-badge)](https://flutter.dev/)
-[![Urdu Support](https://img.shields.io/badge/Urdu%20+%20English-4CAF50?style=for-the-badge)](https://flutter.dev/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge" alt="Hive" />
+  <img src="https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Offline%20First-00BFFF?style=for-the-badge" alt="Offline First" />
+  <img src="https://img.shields.io/badge/Urdu%20+%20English-4CAF50?style=for-the-badge" alt="Urdu + English" />
+</p>
 
 ## 📫 Connect
 
