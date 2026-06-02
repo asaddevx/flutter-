@@ -183,5 +183,10 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+&nbsp;
+  <a href="mailto:asadullah.devop@gmail.com">
+    <img src="https://img.shields.io/badge/SEND_EMAIL-282c34?style=for-the-badge&logo=gmail&logoColor=E06C75" alt="Email" />
+  </a>
+</div>
 
 ---
