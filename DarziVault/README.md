@@ -154,6 +154,9 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Hive](https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge)](https://pub.dev/packages/hive)
+[![Riverpod](https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge)](https://riverpod.dev/)
+[![Offline First](https://img.shields.io/badge/Offline%20First-00BFFF?style=for-the-badge)](https://flutter.dev/)
+[![Urdu Support](https://img.shields.io/badge/Urdu%20+%20English-4CAF50?style=for-the-badge)](https://flutter.dev/)
 
 ## 📫 Connect
 
