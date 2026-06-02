@@ -141,10 +141,13 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
 **DarziVault** — The Smart Measurement Vault for Every Darzi.
 ---
 
-## 📊 Project Status
-- **Current Phase**: Planning & UI Design
-- **Target Launch**: TBD
+## 📊 Project Analytics
 
+<p align="center">
+  <!-- DarziVault Project Stats (using flutter- repo) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=flutter-&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="VeraBolt Project Stats" />
+
+---
 ## 📫 Connect
 
 <div align="center">
