@@ -171,6 +171,13 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
 | <img src="https://github.com/user-attachments/assets/ca6fef92-4ea3-4117-81f4-9ae966dc8aec" width="200"/> | <img src="https://github.com/user-attachments/assets/1afad2f9-9a75-4a4d-81fa-0b118d4b64c3" width="200"/> |
 
 ---
+### 📊 Reports & Analytics
+
+| Reports & Analytics | Overview & Monthly Revenue | Order Status Analytics |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/8b6eeb7b-5cf8-4124-8fb1-994ed9d1204c" width="200"/> | <img src="https://github.com/user-attachments/assets/9b19f651-fabf-48b8-9cd0-d95824856af7" width="200"/> | <img src="https://github.com/user-attachments/assets/02b14f59-f8ff-41fa-b1ce-494e7b79b7d4" width="200"/> |
+
+---
 
 
 ## ✨ Key Highlights
