@@ -170,6 +170,15 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
   <p><strong>SYSTEMS_STATUS: FLUTTER_SYSTEMS_OPERATIONAL 🟢</strong></p>
   <p>Let's build something disruptive. 🚀</p>
 
+
+  <a href="https://asad-lime-six.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-282c34?style=for-the-badge&logo=vercel&logoColor=61AFEF" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/asad-ullah-5475a4352/">
+    <img src="https://img.shields.io/badge/LINKEDIN-282c34?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+
   <a href="https://github.com/yourusername/darzivault">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
