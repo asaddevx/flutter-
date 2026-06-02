@@ -14,10 +14,11 @@
 **DarziVault** is a simple, powerful, and fully offline mobile app designed specifically for local tailors and darzis. It replaces traditional paper notebooks with a digital vault to securely save, organize, edit, and reuse client body measurements.
 
 ---
-
-<div align="center">
+  
 ### 📱 See DarziVault in Action
 
+<div align="center">
+  
 [![Watch Demo Video](https://img.shields.io/badge/🎬_WATCH_DEMO_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZtolripVC0A?si=mN8IBaXUL9mYD0wp)
 [![Get on Google Play](https://img.shields.io/badge/📱_GET_ON_GOOGLE_PLAY-00C853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.devteen.mathchampkids)
 
