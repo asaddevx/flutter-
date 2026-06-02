@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge" alt="Hive" />
   <img src="https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge" alt="Riverpod" />
   <img src="https://img.shields.io/badge/Offline%20First-00BFFF?style=for-the-badge" alt="Offline First" />
+  <img src="https://img.shields.io/badge/Dark%2FLight%20Mode-6C63FF?style=for-the-badge" alt="Dark + Light Mode" />
   <img src="https://img.shields.io/badge/Urdu%20+%20English-4CAF50?style=for-the-badge" alt="Urdu + English" />
 </p>
 
@@ -223,6 +224,7 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
   <img src="https://img.shields.io/badge/Hive-FF6F00?style=for-the-badge" alt="Hive" />
   <img src="https://img.shields.io/badge/Riverpod-FF4081?style=for-the-badge" alt="Riverpod" />
   <img src="https://img.shields.io/badge/Offline%20First-00BFFF?style=for-the-badge" alt="Offline First" />
+  <img src="https://img.shields.io/badge/Dark%2FLight%20Mode-6C63FF?style=for-the-badge" alt="Dark + Light Mode" />
   <img src="https://img.shields.io/badge/Urdu%20+%20English-4CAF50?style=for-the-badge" alt="Urdu + English" />
 </p>
 
