@@ -184,6 +184,9 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
 |:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/d0f7f9fc-1e83-4906-a16a-911745852079" width="200"/> | <img src="https://github.com/user-attachments/assets/57ae7045-d57c-46fc-9426-98a0c5a3a9d7" width="200"/> | <img src="https://github.com/user-attachments/assets/ba414e0b-29d5-45c4-9a3a-c02d3fda43ce" width="200"/> |
 
+| Client Actions (Urdu) | Client Measurements (Urdu) | Measurements Complete (Urdu) |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/2ba8168c-2b67-40aa-902c-4197d5dcdd5e" width="200"/> | <img src="https://github.com/user-attachments/assets/e26ebaf8-ff3c-47b5-b338-6c91f00aaea4" width="200"/> | <img src="https://github.com/user-attachments/assets/717d9540-13ec-425b-b9bd-8ed5d0f9beed" width="200"/> |
 
 
 ## ✨ Key Highlights
