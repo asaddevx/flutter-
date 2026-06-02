@@ -139,6 +139,14 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
 
 ---
 
+### 👥 Client Management
+
+| Clients Screen | Add / Edit Client |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/cfed4df5-956e-4368-b485-68aea325f71b" width="200"/> | <img src="https://github.com/user-attachments/assets/f7561dd0-46ef-4083-b340-ff0793966e64" width="200"/> |
+
+---
+
 
 ## ✨ Key Highlights
 
