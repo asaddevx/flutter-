@@ -178,15 +178,14 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
   <a href="https://www.linkedin.com/in/asad-ullah-5475a4352/">
     <img src="https://img.shields.io/badge/LINKEDIN-282c34?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-
-  <a href="https://github.com/yourusername/darzivault">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-&nbsp;
+  &nbsp;
   <a href="mailto:asadullah.devop@gmail.com">
     <img src="https://img.shields.io/badge/SEND_EMAIL-282c34?style=for-the-badge&logo=gmail&logoColor=E06C75" alt="Email" />
   </a>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
+</p>
 
 ---
