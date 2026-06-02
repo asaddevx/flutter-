@@ -147,6 +147,9 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
   <!-- DarziVault Project Stats (using flutter- repo) -->
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=flutter-&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="VeraBolt Project Stats" />
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=flutter-&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages" />
+</p>
 ---
 ## 📫 Connect
 
