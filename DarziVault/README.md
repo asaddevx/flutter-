@@ -18,9 +18,11 @@
 <div align="center">
 ### 📱 See DarziVault in Action
 
-[![Get on Google Play](https://img.shields.io/badge/📱_GET_ON_GOOGLE_PLAY-00C853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.darzivault.app)
+[![Watch Demo Video](https://img.shields.io/badge/🎬_WATCH_DEMO_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZtolripVC0A?si=mN8IBaXUL9mYD0wp)
+[![Get on Google Play](https://img.shields.io/badge/📱_GET_ON_GOOGLE_PLAY-00C853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.devteen.mathchampkids)
 
 *Built for tailors, by understanding real tailoring problems.*
+
 </div>
 
 ---
