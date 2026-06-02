@@ -146,6 +146,11 @@ Local tailors in Pakistan still rely on old paper notebooks or loose notes for c
 | <img src="https://github.com/user-attachments/assets/cfed4df5-956e-4368-b485-68aea325f71b" width="200"/> | <img src="https://github.com/user-attachments/assets/f7561dd0-46ef-4083-b340-ff0793966e64" width="200"/> |
 
 ---
+### 📦 Order Management
+
+| Orders Screen | Create Order Screen | Colors Selection |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/a7629420-2f04-47e4-921c-728610d6d149" width="200"/> | <img src="https://github.com/user-attachments/assets/02002031-581d-4715-ad26-06dc6c94dc8c" width="200"/> | <img src="https://github.com/user-attachments/assets/ca7913e0-d372-45cb-bcf5-50c6b0d569d5" width="200"/> |
 
 
 ## ✨ Key Highlights
