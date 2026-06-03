@@ -36,7 +36,7 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 ---
 
-### ✂️ [DarziVault](https://github.com/asaddevx/flutter-/tree/main/darzivault_app) | Tailoring Management OS
+### ✂️ [DarziVault](https://github.com/asaddevx/flutter-/tree/main/DarziVault) | Tailoring Management OS
 
 **The Problem:** Tailoring shops struggle with managing client measurements, order tracking, and bilingual communication (Urdu/English). Paper records get lost, measurements are inconsistent, and customers receive no updates.
 
