@@ -47,6 +47,9 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 - 👥 **Client Management** – Add, edit, and track client measurements
 - 📦 **Order Management** – Create orders with suit color selection
 - 🌙 **Bilingual Support** – Full Urdu + English interface
+- 📄 **PDF Export** – Generate professional client profiles and measurement reports
+- 🔔 **Push Notifications** – Real-time order status updates
+- 📈 **Reports & Analytics** – Monthly revenue and order status insights
 
 ---
 
