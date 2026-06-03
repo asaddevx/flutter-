@@ -36,6 +36,10 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 ---
 
+### ✂️ [DarziVault](https://github.com/asaddevx/flutter-/tree/main/darzivault_app) | Tailoring Management OS
+
+---
+
 ## 🛡️ VeraBolt: The "Resilient Intelligence" Narrative
 
 ### 🚨 The Problem: The "Cloud-Fragile" Barrier
