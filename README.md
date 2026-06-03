@@ -40,6 +40,8 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 **The Problem:** Tailoring shops struggle with managing client measurements, order tracking, and bilingual communication (Urdu/English). Paper records get lost, measurements are inconsistent, and customers receive no updates.
 
+**The Solution:** A complete tailoring management ecosystem with bilingual support, PDF export, dark/light mode, and real-time order tracking. Tailors can manage clients, measurements, orders, and generate professional PDF profiles — all offline-first.
+
 ---
 
 ## 🛡️ VeraBolt: The "Resilient Intelligence" Narrative
