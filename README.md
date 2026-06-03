@@ -42,6 +42,12 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 **The Solution:** A complete tailoring management ecosystem with bilingual support, PDF export, dark/light mode, and real-time order tracking. Tailors can manage clients, measurements, orders, and generate professional PDF profiles — all offline-first.
 
+**Key Features:**
+- 📊 **Dashboard** – Real-time analytics with light/dark mode
+- 👥 **Client Management** – Add, edit, and track client measurements
+- 📦 **Order Management** – Create orders with suit color selection
+- 🌙 **Bilingual Support** – Full Urdu + English interface
+
 ---
 
 ## 🛡️ VeraBolt: The "Resilient Intelligence" Narrative
