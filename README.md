@@ -1,7 +1,4 @@
 
-
----
-
 # 🎯 Flutter Core: Enterprise Mobility & Logic
 
 ## 🚨 The Industry Problem: Fragmented Institutional Accountability
