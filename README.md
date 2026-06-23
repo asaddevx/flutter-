@@ -33,7 +33,7 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 ---
 
-### ✂️ [DarziVault](https://github.com/asaddevx/flutter-/tree/main/DarziVault) | Tailoring Management OS
+### ✂️ [DarziVault](https://github.com/asaddevx/flutter-/tree/main/DarziVault) | Tailoring Management OS:
 
 **The Problem:** Tailoring shops struggle with managing client measurements, order tracking, and bilingual communication (Urdu/English). Paper records get lost, measurements are inconsistent, and customers receive no updates.
 
@@ -54,7 +54,7 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 ## 🛡️ VeraBolt: The "Resilient Intelligence" Narrative:
 
-### 🚨 The Problem: The "Cloud-Fragile" Barrier
+### 🚨 The Problem: The "Cloud-Fragile" Barrier:
 
 Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragility**. They lag during critical moments, require constant high-speed internet to process data, and pose massive privacy risks by sending sensitive camera frames to remote servers. In high-stakes environments, 3 seconds of lag is the difference between a win and a loss.
 
