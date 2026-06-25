@@ -10,7 +10,7 @@ In large-scale environments like universities and professional organizations, ac
 My Flutter engineering focus is on building **High-Fidelity Accountability Systems**. I specialize in creating mobile tools that enforce strict institutional logic—from automated escalation hierarchies to policy-compliant academic calculators—ensuring that data isn't just stored, but used to drive operational integrity.
 
 ---
-## 📱 Featured Projects:
+## 📱 Featured Projects
 
 ### 🏆 [Math Champ](https://github.com/asaddevx/flutter-/tree/main/Math_champ_app/) | Live on Google Play 🎮
 
@@ -29,7 +29,7 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 **Key Tech:** Flutter, Riverpod, just_audio, flutter_animate, SharedPreferences
 
-**📱 Live on Google Play
+**📱 Live on Google Play:
 
 ---
 
