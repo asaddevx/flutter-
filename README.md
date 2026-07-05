@@ -52,7 +52,7 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 ---
 
-## 🛡️ VeraBolt: The "Resilient Intelligence" Narrative
+## 🛡️ VeraBolt: The "Resilient Intelligence" Narrative:
 
 ### 🚨 The Problem: The "Cloud-Fragile" Barrier
 
