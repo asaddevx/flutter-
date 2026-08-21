@@ -5,7 +5,7 @@
 
 In large-scale environments like universities and professional organizations, accountability often fails due to fragmented communication channels. Issues are reported but not tracked, calculations are done but not verified, and tasks are assigned but never escalated, leading to systemic operational decay.
 
-## 💡 The Solution: Engineered Accountability & High-Performance Utility
+## 💡 The Solution: Engineered Accountability & High-Performance Utility:
 
 My Flutter engineering focus is on building **High-Fidelity Accountability Systems**. I specialize in creating mobile tools that enforce strict institutional logic—from automated escalation hierarchies to policy-compliant academic calculators—ensuring that data isn't just stored, but used to drive operational integrity.
 
