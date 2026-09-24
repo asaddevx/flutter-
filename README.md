@@ -113,7 +113,7 @@ Most professional tools—especially AI-driven ones—suffer from **Cloud-Fragil
 * **Institutional Security**: Leveraging **Supabase Row Level Security (RLS)** to protect sensitive user and organizational data.
 * **Performance Optimization**: Achieving 60fps through efficient widget tree rebuilding and asynchronous data handling.
 ---
-## ✨ Key Highlights
+## ✨ Key Highlights:
 
 - **Advanced Offline-First Architecture** with Isar + Riverpod
 - **On-device AI** (YOLOv8 + TFLite + ML Kit)
