@@ -29,7 +29,7 @@ My Flutter engineering focus is on building **High-Fidelity Accountability Syste
 
 **Key Tech:** Flutter, Riverpod, just_audio, flutter_animate, SharedPreferences
 
-**📱 Live on Google Play
+**📱 Live on Google Play:
 
 ---
 
